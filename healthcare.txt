@@ -1,0 +1,74 @@
+﻿Ustekinumab-stba (Steqeyma; Celltrion), a biosimilar to ustekinumab (Stelara; Janssen Pharmaceuticals), has been launched in the US and is indicated for the treatment of plaque psoriasis (PsO) and psoriatic arthritis (PsA) in adult and pediatric patients, as well as Crohn disease (CD) and ulcerative colitis (UC) in adults.The launch follows the FDA approval of ustekinumab-stba in December 2024, granted for the same indications as its reference product, ustekinumab.
+
+"Plaque psoriasis and psoriatic arthritis are both autoimmune disorders that affect the skin and present differently in all patients," Mark G. Lebwohl, MD, Icahn School of Medicine at Mount Sinai, New York, said in a news release. "The approval of a new treatment option is welcome news for people living with certain chronic inflammatory conditions, such as psoriasis, which affects more than 3% of the US adult population."
+
+As a human IL-12 antagonist and IL-23 antagonist, ustekinumab-stba is used to treat various immune-mediated diseases. The drug is administered through subcutaneous injections with 45 mg and 90 mg prefilled syringes, or through intravenous infusions, provided in a 130 mg vial. It is approved for all the same conditions as the reference product, including PsO, PsA, CD, and UC in adults, as well as PsO and PsA in children aged 6 and older.
+
+"Chronic inflammatory diseases such as plaque psoriasis and psoriatic arthritis place significant burden on patients," Lebwohl said in a news release. "Biosimilars increase access to essential therapies, while maintaining the same high standards as the reference product. The availability of Steqeyma provides patients and health care providers a cost-effective alternative to manage chronic inflammatory diseases."
+
+The FDA approval for ustekinumab-stba was based on comprehensive evidence, from a Phase 3 study involving adults with moderate to severe PsO. This study focused on the change in the Psoriasis Area and Severity Index (PASI) to assess skin symptom improvement. The study's findings showed that ustekinumab-stba and ustekinumab, its reference product, exhibit high similarity and lack clinically significant differences in both safety and efficacy.
+
+With the launch of ustekinumab-stba, the drug is reported to be priced with a wholesale acquisition cost (WAC) list price at an 85% discount to the current WAC list price of ustekinumab. The biosimilar is intended to improve patient access for the indicated treatment.
+
+"The introduction of Steqeyma in the US, as one of the first-wave biosimilars to Stelara, marks an important step in our ongoing efforts to expand patient access to high-quality biologic treatments," Thomas Nusbickel, chief commercial officer at Celltrion USA, said in a news release. "With this launch, we are expanding our immunology portfolio beyond TNF-alpha to include IL-12/23 inhibitors, offering more options for multiple immune-mediated diseases. To further enhance accessibility, Celltrion is actively collaborating with key pharmacy benefit managers to secure broader formulary coverage for Steqeyma."
+
+The launch of ustekinumab-stba, following its FDA approval, expands patient access to this important therapy, emphasizing the pharmacist’s role in biosimilar integration. This includes ensuring appropriate patient selection, providing patient education on administration and potential side effects, monitoring for adverse events, and collaborating with prescribers to optimize treatment outcomes.
+
+TORONTO, March 10, 2025 /CNW/ - Johnson & Johnson (NYSE: JNJ) announced today that Health Canada has issued a Notice of Compliance (NOC) for LAZCLUZE (lazertinib) in combination with RYBREVANT (amivantamab) for the first-line treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R substitution mutations. Janssen Inc., a Johnson & Johnson company, is the market authorization holder for LAZCLUZE  and RYBREVANT in Canada.
+
+With this authorization, LAZCLUZE plus RYBREVANT becomes the first and only chemotherapy-free combination regimen showing clinically meaningful and statistically significant improvement in progression-free survival versus osimertinib for these patients. RYBREVANT is a fully human bispecific antibody targeting EGFR and MET with immune cell-directing activity, and LAZCLUZE is a highly potent, brain penetrant,2 third-generation EGFR tyrosine kinase inhibitor (TKI).
+
+"While we have seen much progress in the treatment of lung cancer, many patients with EGFR-mutated NSCLC don't reach second-line therapy when initial treatment stops working. This underscores the critical need for better options in the first-line setting," says Dr. Natasha Leighl*, Lung Site Lead, Medical Oncology at the Princess Margaret Cancer Centre, and Professor of Medicine at the University of Toronto. "The approval of this new targeted combination represents a significant advance in treatment, providing patients with a new option that extends progression-free survival and survival in the first line compared to previously available treatments." 
+
+Lung cancer remains the most commonly diagnosed cancer in Canada and the leading cause of cancer death. NSCLC accounts for 88 per cent of all lung cancers in Canada. Globally, approximately one third of patients with NSCLC harbour an EGFR mutation, 27-38 per cent of whom never receive second-line therapy due to disease progression and limited treatment options. The five-year survival rate for people with advanced EGFR-mutated NSCLC is less than 20 per cent and complex acquired resistance mechanisms after TKI monotherapy make subsequent treatment more difficult.
+
+"Each breakthrough in the treatment of lung cancer provides new hope for patients," says Shem Singh***, Executive Director of Lung Cancer Canada. "Findings from the MARIPOSA study show new progress in the treatment of NSCLC with EGFR mutations, including a meaningful increase in progression-free survival. The approval of the combination of LAZCLUZE and RYBREVANT allows for this valuable novel first-line approach to be used in the treatment of these cancers, which is good news for people diagnosed with this disease and their families." 
+
+The Health Canada NOC is based on results from the Phase 3 MARIPOSA study, which showed LAZCLUZE plus RYBREVANT reduced the risk of disease progression or death by 30 per cent compared with osimertinib (median progression-free survival (PFS) was 23.7 months versus 16.6 months) in the first-line treatment of patients with locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations. The median duration of response (DOR) was nine months longer with LAZCLUZE plus RYBREVANT versus osimertinib (25.8 months versus 16.7 months), a secondary endpoint of the study.
+
+Among the 421 patients who received LAZCLUZE in combination with RYBREVANT, 83.6 per cent were exposed to LAZCLUZE for 6 months or longer and 73.2 per cent were exposed to LAZCLUZE for greater than 1 year. Serious adverse reactions in >2% of patients who received LAZCLUZE in combination with amivantamab included pulmonary embolism (6.2%), pneumonia (4.0%), deep vein thrombosis (2.9%), ILD/pneumonitis (2.9%), COVID-19 (2.4%) infusion related reaction (2.1%; amivantamab-specific), rash (2.1%) and pleural effusion (2.1%).
+
+"This approval strengthens our commitment to redefining care in areas of high unmet need by advancing innovative regimens that have the potential to extend survival in this deadly disease," says Berkeley Vincent, President, Johnson & Johnson Innovative Medicine, Canada. "Today's Health Canada authorization for LAZCLUZE in combination with RYBREVANT further reinforces the critical role of precision medicine in driving enhanced outcomes for patients living with lung cancer. By offering this targeted first-line treatment, we are continuing our efforts to alter the trajectory of this disease."
+
+Insurance coverage denials have risen in recent years in the US, driven in part by automated algorithms powered by AI – and some recently launched artificial intelligence tools may fight back by generating automatic appeals.
+
+But to see more lasting change, health experts say that the health insurance system needs greater reform to control high prices and ensure coverage.
+
+UnitedHealth, Humana and Cigna are facing class-action lawsuits alleging the insurers relied upon algorithms to deny lifesaving care.
+One of the lawsuits alleges that Cigna denied more than 300,000 claims in a two-month period, which amounts to about 1.2 seconds for each physician-reviewed claim. Such a practice is aided by algorithms, the lawsuit said.
+
+In 2020, UnitedHealth Group acquired naviHealth and its algorithm for predicting care, called nH Predict, which UnitedHealth uses and also contracts out to other insurers, including Humana. (A spokesperson for UnitedHealth Group denied that the algorithm is used to make coverage decisions; Humana did not respond to a request for comment.)
+
+The lawsuit against them alleged that nH Predict has a 90% error rate, meaning nine out of 10 denials are reversed upon appeal – but that vanishingly few patients (about 0.2%) appeal their denied claims, leading them to pay bills out of pocket or forgo necessary treatment.
+
+That figure tracks with a survey by the non-profit KFF, which found less than 0.2% of people purchasing insurance through HealthCare.gov appeal in-network claims that are denied.
+
+When it comes to prior authorization, a practice in which doctors and patients must receive an insurance company’s approval before starting care or medications, less than 10% of denied requests in Medicare Advantage plans (Medicare-approved plans from a private company) were appealed in 2022, according to another KFF survey.
+
+Doctor’s offices now have entire departments devoted to processing and appealing prior authorization decisions.
+
+Nearly half of US adults say they have unexpectedly received a medical bill or been charged a co-payment, according to a survey from the Commonwealth Fund.
+
+Four out of five said these delays caused worry and anxiety, and nearly half said their condition worsened because of delayed care. Most did not know they could appeal a denial.
+
+But for those who do try to appeal, the process can be so labyrinthine, they are forced to give up.
+
+Two of her three sons have severe food allergies, so Deirdre O’Reilly was worried about sending one of them out of state to college. When he had a reaction, he went to the emergency room like usual.
+
+But this time, the insurance company denied coverage for the entire visit – nearly $5,000, according to a denial letter reviewed by the Guardian. O’Reilly tried to appeal four times, and each time, the insurer, BlueCross BlueShield of Vermont, gave her a different reason, she said.
+
+“My son didn’t have a choice – he was going to die if he didn’t go to the nearest emergency room,” O’Reilly said.
+
+She should know; she’s an intensive care physician at the University of Vermont. She has seen denials like these happen to her own patients, such as premature infants who have oxygen equipment denied.
+
+“It’s gotten out of control. It’s changed a tremendous amount in the 20 years I’ve been a physician,” she said. “I can’t believe that people have to go through this just to get healthcare covered – things that are basic needs.”
+
+And many people don’t have the same medical expertise and the time or resources for lengthy appeal processes.
+
+“I was tenacious,” she said. “But at some point, I could only fight so much.”
+
+A spokesperson from BlueShield Vermont said in a statement that she could not comment on an individual’s health record, but denied the use of algorithms in managing care. “Most” prior authorization decisions were made by the insurer’s team of doctors and nurses based on national guidelines, she said.
+
+Vermont is one of several states that recently passed legislation to reduce the strain of prior authorizations.
+
+Automated denials in particular have faced increased scrutiny by federal and state lawmakers.
