@@ -49,6 +49,50 @@ class FinBERTAnalyzer:
         except Exception as e:
             print(f"Error processing article {article_id}: {str(e)}")
             return None
+        
+# Process all files in all subdirectories
+# def process_datasets():
+#     # Initialize the analyzer
+#     analyzer = FinBERTAnalyzer()
+    
+#     # Path to the Datasets folder
+#     datasets_path = "Datasets"
+#     results = []
+
+#     # Process all files in all subdirectories
+#     for root, dirs, files in os.walk(datasets_path):
+#         for file in files:
+#             if file.endswith('.json'):
+#                 category = os.path.basename(root)
+#                 file_path = os.path.join(root, file)
+#                 print(f"\nProcessing {file_path}")
+                
+#                 try:
+#                     # Read JSON file
+#                     with open(file_path, 'r', encoding='utf-8') as f:
+#                         articles = json.load(f)
+                    
+#                     # Process each article
+#                     for article in tqdm(articles, desc=f"Analyzing articles in {category}"):
+#                         # Extract text from the article
+#                         text = article.get('text', '') or article.get('content', '')
+#                         article_id = article.get('id', '') or article.get('article_id', '')
+                        
+#                         result = analyzer.analyze_text(text, article_id)
+#                         if result:
+#                             #Skip articles where all sentiment scores are 0
+#                             scores = result['scores']
+#                             if scores['negative'] == 0 and scores['neutral'] == 0 and scores['positive'] == 0:
+#                                 continue
+                                
+#                             result['category'] = category
+#                             result['title'] = article.get('title', '')
+#                             result['date'] = article.get('date', '') or article.get('published_date', '')
+#                             results.append(result)
+                
+#                 except Exception as e:
+#                     print(f"Error processing file {file_path}: {str(e)}")
+#                     continue
 
 def process_datasets():
     # Initialize the analyzer
@@ -58,12 +102,20 @@ def process_datasets():
     datasets_path = "Datasets"
     results = []
 
-    # Process all files in all subdirectories
-    for root, dirs, files in os.walk(datasets_path):
-        for file in files:
+    # Specify the categories we want to process
+    target_categories = ['Health_News', 'World_Politics_News']
+    
+    # Process only specified categories
+    for category in target_categories:
+        category_path = os.path.join(datasets_path, category)
+        if not os.path.exists(category_path):
+            print(f"Warning: Category path {category_path} not found")
+            continue
+            
+        # Process all JSON files in the category directory
+        for file in os.listdir(category_path):
             if file.endswith('.json'):
-                category = os.path.basename(root)
-                file_path = os.path.join(root, file)
+                file_path = os.path.join(category_path, file)
                 print(f"\nProcessing {file_path}")
                 
                 try:
@@ -79,6 +131,11 @@ def process_datasets():
                         
                         result = analyzer.analyze_text(text, article_id)
                         if result:
+                            # Skip articles where all sentiment scores are 0
+                            scores = result['scores']
+                            if scores['negative'] == 0 and scores['neutral'] == 0 and scores['positive'] == 0:
+                                continue
+                                
                             result['category'] = category
                             result['title'] = article.get('title', '')
                             result['date'] = article.get('date', '') or article.get('published_date', '')
@@ -103,10 +160,10 @@ def process_datasets():
     ])
     
     # Save results
-    df.to_csv('sentiment_analysis_results.csv', index=False)
+    df.to_csv('FinBERT_results.csv', index=False)
     
     # Also save as JSON for detailed view
-    with open('sentiment_analysis_results.json', 'w') as f:
+    with open('FinBERT_results.json', 'w') as f:
         json.dump(results, f, indent=4)
 
     print(f"\nAnalysis complete. Processed {len(results)} articles.")
