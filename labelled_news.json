@@ -1,0 +1,4402 @@
+[
+    {
+        "article_id": "0",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Covid Scotland: Travel industry 'left guessing' by lack of decision on PCR testing in Scotland",
+        "date": ""
+    },
+    {
+        "article_id": "1",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Extell Development Company Announces Class A Medical Office Building On Upper East Side",
+        "date": ""
+    },
+    {
+        "article_id": "2",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Right food can help beat depression, say nutritionists",
+        "date": ""
+    },
+    {
+        "article_id": "3",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19 Can Damage Blood Vessels in The Brain, Causing Neurological Symptoms",
+        "date": ""
+    },
+    {
+        "article_id": "4",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "These Scalp Massagers Claim to Promote Hair Growth, so Sign Me and My Tresses up",
+        "date": ""
+    },
+    {
+        "article_id": "5",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Pilot Program Suggests Paying People to Get Vaxxed Might Actually Work",
+        "date": ""
+    },
+    {
+        "article_id": "6",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Parents more hesitant to vaccinate kids than themselves, researcher says - paNOW",
+        "date": ""
+    },
+    {
+        "article_id": "7",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "B.C.\u2019s COVID-19 case rate starts to decline, 20 more deaths in 3 days - Mission City Record",
+        "date": ""
+    },
+    {
+        "article_id": "8",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Children\u2019s Health Defense, Robert F. Kennedy, Jr. and Meryl Nass, MD Tell FDA Advisory Committee: Approval of the COVID Vaccine for Young Children Will Put Millions at Serious Risk",
+        "date": ""
+    },
+    {
+        "article_id": "9",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "James Michael Tyler, who played Gunther in 'Friends,' dies of prostate cancer",
+        "date": ""
+    },
+    {
+        "article_id": "10",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "NHS maternity services near breaking point, warns top doctor - The Guardian",
+        "date": ""
+    },
+    {
+        "article_id": "11",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ask people to follow Covid norms during festivities: I&B to Pvt channels",
+        "date": ""
+    },
+    {
+        "article_id": "12",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Parents more hesitant to vaccinate kids than themselves, researcher says - Victoria News",
+        "date": ""
+    },
+    {
+        "article_id": "13",
+        "scores": {
+            "positive": 0.5,
+            "neutral": 0.5,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ed Sheeran tests COVID-19 positive days before album release",
+        "date": ""
+    },
+    {
+        "article_id": "14",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "New study suggests breastfeeding may help prevent cognitive decline",
+        "date": ""
+    },
+    {
+        "article_id": "15",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Bio-Rad introduces CFX Opus Dx real-time PCR detection systems for IVD use",
+        "date": ""
+    },
+    {
+        "article_id": "16",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "N.S. reports 99th COVID-19 related death, 57 new cases over the weekend - CTV News Atlantic",
+        "date": ""
+    },
+    {
+        "article_id": "17",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Decreasing length of hospitalization increases post-discharge complications for surgical patients",
+        "date": ""
+    },
+    {
+        "article_id": "18",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "NIH to invest $70M to bring more at-home COVID-19 tests to market",
+        "date": ""
+    },
+    {
+        "article_id": "19",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.2,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "26 additional COVID-19 related deaths, 165 new cases reported across nine states, FCT",
+        "date": ""
+    },
+    {
+        "article_id": "20",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.2,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "4 Ways to Trim Your Nose Hairs Safely at Home",
+        "date": ""
+    },
+    {
+        "article_id": "21",
+        "scores": {
+            "positive": 0.4,
+            "neutral": 0.5,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "ERs are now swamped with seriously ill patients \u2014 but most don't even have COVID",
+        "date": ""
+    },
+    {
+        "article_id": "22",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Is the 'worst lurgy ever' going around? Why colds will be worse this winter",
+        "date": ""
+    },
+    {
+        "article_id": "23",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "'I'm not a fan of mandatory!' Dr Amir hits out at Britons being forced to take the booster",
+        "date": ""
+    },
+    {
+        "article_id": "24",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Researchers identify genes that cause resistance to treatment of Candida glabrata fungus",
+        "date": ""
+    },
+    {
+        "article_id": "25",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna Covid vaccine has strong results in children ages 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "26",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Eligible travelers to England can now take a cheaper lateral flow test",
+        "date": ""
+    },
+    {
+        "article_id": "27",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Global WholeHealth Partners inks MOU for COVID-19 antigen test",
+        "date": ""
+    },
+    {
+        "article_id": "28",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Why women may wait decades for an ADHD diagnosis - BBC News",
+        "date": ""
+    },
+    {
+        "article_id": "29",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Queensland vaccine rollout struggling to keep up with reopening plan | 9 News Australia - 9 News Australia",
+        "date": ""
+    },
+    {
+        "article_id": "30",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "New Delta Plus COVID-19 strain on rise in UK: Is variant more contagious? Should India be worried? - Firstpost",
+        "date": ""
+    },
+    {
+        "article_id": "31",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Cellectar collaborates with BBK Worldwide for concierge service for patients in trials",
+        "date": ""
+    },
+    {
+        "article_id": "32",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "New COVID cases surge in Eastern Europe, as region experiences worse outbreak of the pandemic",
+        "date": ""
+    },
+    {
+        "article_id": "33",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "\u2018Smart bandage\u2019 could help doctors to monitor chronic wounds more easily",
+        "date": ""
+    },
+    {
+        "article_id": "34",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "PetMed Express, Inc. (PETS) CEO Matt Hulett on Q2 2022 Results - Earnings Call Transcript",
+        "date": ""
+    },
+    {
+        "article_id": "35",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "In an Astonishing Feat, Astronomers Present Evidence of an Extra-Galactic Planet",
+        "date": ""
+    },
+    {
+        "article_id": "36",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "2 B.C. doctors linked to website selling bogus mask and vaccine exemption 'certificates'",
+        "date": ""
+    },
+    {
+        "article_id": "37",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Humana expands in 8 counties in Maryland",
+        "date": ""
+    },
+    {
+        "article_id": "38",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Covid: 52 people admitted to Dorset hospitals in a week",
+        "date": ""
+    },
+    {
+        "article_id": "39",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Parents more hesitant to vaccinate kids than themselves, researcher says - Squamish Chief",
+        "date": ""
+    },
+    {
+        "article_id": "40",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19's silver lining\u2014improving cancer care",
+        "date": ""
+    },
+    {
+        "article_id": "41",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Global Blood Therapeutics: It Might Be Time To Buy The Dip",
+        "date": ""
+    },
+    {
+        "article_id": "42",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Cellectar Announces Innovative Concierge Service for Patients Participating in Its Clinical Studies",
+        "date": ""
+    },
+    {
+        "article_id": "43",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Sanjivanis breast lounge - Trinidad & Tobago Express Newspapers",
+        "date": ""
+    },
+    {
+        "article_id": "44",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Vaccines for kids under 12 'very likely' to be available 1st or 2nd week of November: Fauci",
+        "date": ""
+    },
+    {
+        "article_id": "45",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "How did California go from COVID-19 epicenter to lowest statewide transmission rate?",
+        "date": ""
+    },
+    {
+        "article_id": "46",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "What to know about the flu shot and COVID-19 vaccines - Good Morning America",
+        "date": ""
+    },
+    {
+        "article_id": "47",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "TRxADE HEALTH, Inc. (MEDS) CEO Surendra Ajjarapu on Q3 2021 Results - Earnings Call Transcript",
+        "date": ""
+    },
+    {
+        "article_id": "48",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Dorset Council reveals \u00a337.5m plan for children with additional needs",
+        "date": ""
+    },
+    {
+        "article_id": "49",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Teachers, parents find rocky return to school for kids adjusting to in-person class",
+        "date": ""
+    },
+    {
+        "article_id": "50",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "CDC Director Walensky avoids question on vaccine mandate for essential workers",
+        "date": ""
+    },
+    {
+        "article_id": "51",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Public must be protected from unsafe cosmetic surgery",
+        "date": ""
+    },
+    {
+        "article_id": "52",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "PTC Therapeutics' Translarna gets expanded approval for DMD in Brazil",
+        "date": ""
+    },
+    {
+        "article_id": "53",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Erasca Announces Presentation of Preclinical Data on ERAS-801, a CNS-Penetrant EGFR Inhibitor with Broad Activity against Oncogenic EGFR Alterations, at AACR Conference on Brain Cancer",
+        "date": ""
+    },
+    {
+        "article_id": "54",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Get vaccinated against COVID-19, Edo govt urges residents",
+        "date": ""
+    },
+    {
+        "article_id": "55",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Piper Sandler identifies buys in oil and software and sells in biotech: Sector Watch",
+        "date": ""
+    },
+    {
+        "article_id": "56",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "The Verdict on the Best Weight Loss Drinks for Breakfast \u2014 Eat This Not That - Eat This, Not That",
+        "date": ""
+    },
+    {
+        "article_id": "57",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "That Exciting Signal Thought to Be From Proxima Centauri Has Now Been Resolved",
+        "date": ""
+    },
+    {
+        "article_id": "58",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Sajid Javid to wear face mask in the House of Commons chamber on Budget Day",
+        "date": ""
+    },
+    {
+        "article_id": "59",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Is eating nuts beneficial for breast cancer survivors? Here's what study says - Hindustan Times",
+        "date": ""
+    },
+    {
+        "article_id": "60",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Breast Implant Market revenue to cross USD 3.4 Bn by 2027: Global Market Insights Inc.",
+        "date": ""
+    },
+    {
+        "article_id": "61",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Amid 'great resignation,' group calls for more fertility benefits coverage",
+        "date": ""
+    },
+    {
+        "article_id": "62",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Fresh Bros: New Wild Lettuce Research Shows Promise as a Nootropic and Painkiller",
+        "date": ""
+    },
+    {
+        "article_id": "63",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "CytoDyn treats first patient in late-stage leronlimab Brazil COVID-19 trial",
+        "date": ""
+    },
+    {
+        "article_id": "64",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "AIG novel cooling balloon technique - Deccan Chronicle",
+        "date": ""
+    },
+    {
+        "article_id": "65",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "New advice issued by Dorset's public health chief amid rising covid cases",
+        "date": ""
+    },
+    {
+        "article_id": "66",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ontario reports 370 COVID-19 cases, 1 death",
+        "date": ""
+    },
+    {
+        "article_id": "67",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "COP26: Patients from six children's hospitals to cycle from London to Glasgow for climate change fight",
+        "date": ""
+    },
+    {
+        "article_id": "68",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ocugen soaring ahead of key WHO meeting tomorrow on partner\u2019s COVID-19 shot",
+        "date": ""
+    },
+    {
+        "article_id": "69",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "New method measures temperature inside the body for detecting cancer, other diseases",
+        "date": ""
+    },
+    {
+        "article_id": "70",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "NSW records 282 new Covid cases two weeks after easing lockdown restrictions - Daily Mail",
+        "date": ""
+    },
+    {
+        "article_id": "71",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "A comparison between Pfizer/BioNTech's and Sinopharm's SARS-CoV-2 vaccines",
+        "date": ""
+    },
+    {
+        "article_id": "72",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Thailand finds first local Delta Plus Covid-19 case - The Straits Times",
+        "date": ""
+    },
+    {
+        "article_id": "73",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Dementia: The link between symptoms found in your ears and risk still baffling scientists - Daily Express",
+        "date": ""
+    },
+    {
+        "article_id": "74",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "New survey on roll out process for COVID vaccines for kids - WSLS 10",
+        "date": ""
+    },
+    {
+        "article_id": "75",
+        "scores": {
+            "positive": 0,
+            "neutral": 0.9,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "\u2018Let us dance\u2019: Event organizers contend with cancellations due to no dancing rules",
+        "date": ""
+    },
+    {
+        "article_id": "76",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Applied DNA Sciences submits EUA request for Linea SARS-CoV-2 Mutation Panel",
+        "date": ""
+    },
+    {
+        "article_id": "77",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Theratechnologies Announces Reimbursement Agreement in Italy for Trogarzo\u00ae for Eligible Patients With Multi-Drug Resistant HIV-1",
+        "date": ""
+    },
+    {
+        "article_id": "78",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Lantern Pharma to Host Third Quarter 2021 Operating &amp; Financial Results Conference Call on Monday, November 1, 2021 at 4:30 p.m. ET",
+        "date": ""
+    },
+    {
+        "article_id": "79",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Woman returns home from once-in-a-lifetime holiday to double cancer diagnosis - Daily Record",
+        "date": ""
+    },
+    {
+        "article_id": "80",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Decision on Aussie COVID-19 booster shots \"imminent\": official - Xinhua - Xinhua",
+        "date": ""
+    },
+    {
+        "article_id": "81",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Sharps Compliance acquires Affordable Medical Waste for $2.2M",
+        "date": ""
+    },
+    {
+        "article_id": "82",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Researchers develop ferritin-based nanomedicine for targeted delivery of leukemia therapy",
+        "date": ""
+    },
+    {
+        "article_id": "83",
+        "scores": {
+            "positive": 0.2,
+            "neutral": 0.7,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "How to support a person with dementia as lockdowns ease",
+        "date": ""
+    },
+    {
+        "article_id": "84",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Air pollution reduces sperm count by causing brain inflammation, mice study shows",
+        "date": ""
+    },
+    {
+        "article_id": "85",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Bausch + Lomb and Clearside Biomedical Announce FDA Approval of XIPERE\u2122 (triamcinolone acetonide injectable suspension) for Suprachoroidal Use for the Treatment of Macular Edema Associated with Uveitis",
+        "date": ""
+    },
+    {
+        "article_id": "86",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Older adults stimulant usage associated with higher risk of cardiovascular events in first month: Study - Lokmat",
+        "date": ""
+    },
+    {
+        "article_id": "87",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Namibia halts use of Sputnik jabs after South Africa HIV fears - ETHealthworld.com",
+        "date": ""
+    },
+    {
+        "article_id": "88",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Human fat in home fridges: Disturbing allegations hit cosmetic surgery clinics",
+        "date": ""
+    },
+    {
+        "article_id": "89",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Walmart recalls room spray for \"rare and dangerous\" bacteria",
+        "date": ""
+    },
+    {
+        "article_id": "90",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "What the U.S. can \u2014 and cannot \u2014 do for vaccine equity per the State Department",
+        "date": ""
+    },
+    {
+        "article_id": "91",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Today's coronavirus news: Ontario reports 370 new cases of COVID-19, 1 death; Parents more hesitant to vaccinate kids than themselves, researcher says - ThePeterboroughExaminer.com",
+        "date": ""
+    },
+    {
+        "article_id": "92",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19: Professors urge 'some kind of Plan B' and warn emergency departments are in 'terrible place' - Sky News",
+        "date": ""
+    },
+    {
+        "article_id": "93",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "CASI Pharmaceuticals' partner Juventas Cell Therapy raises RMB410M",
+        "date": ""
+    },
+    {
+        "article_id": "94",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Dermal Fillers Market Size [2021-2028] | To USD 6.28 billion, While Exhibiting an Impressive CAGR of 10.8%",
+        "date": ""
+    },
+    {
+        "article_id": "95",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Study provides a specific target to tackle breast cancer relapse",
+        "date": ""
+    },
+    {
+        "article_id": "96",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Province Extends Current Public Health Orders, Announces Pan-Canadian Proof of Vaccination Credential - DiscoverWestman.com",
+        "date": ""
+    },
+    {
+        "article_id": "97",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Coronavirus Update: Public health officials say more nuanced conversations needed on COVID-19 vaccines for kids than for adults - The Globe and Mail",
+        "date": ""
+    },
+    {
+        "article_id": "98",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Latest Scottish Covid figures show 21 deaths and more than 2,500 cases",
+        "date": ""
+    },
+    {
+        "article_id": "99",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Breast Cancer Awareness Month: All You Need To Know About Early Detection Of Breast Cancer - NDTV",
+        "date": ""
+    },
+    {
+        "article_id": "100",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Merck Vs. Pfizer: Which Healthcare Stock Is The Better Buy?",
+        "date": ""
+    },
+    {
+        "article_id": "101",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Minister promises to domesticate disability act",
+        "date": ""
+    },
+    {
+        "article_id": "102",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna says vaccine is safe for kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "103",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "AY.4.2 up to 15 per cent more transmissible than Delta, may be named \u2018Nu\u2019",
+        "date": ""
+    },
+    {
+        "article_id": "104",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna says its low-dose COVID vaccine works for kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "105",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Are Vaccine Boosters Widely Needed? Some Federal Advisers Have Misgivings.",
+        "date": ""
+    },
+    {
+        "article_id": "106",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Stockton triathlon joins Newcastle events list for 2022",
+        "date": ""
+    },
+    {
+        "article_id": "107",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "St. Croix County extends Health Advisory | News | baldwin-bulletin.com - The Baldwin Bulletin",
+        "date": ""
+    },
+    {
+        "article_id": "108",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Pofma correction direction issued to Truth Warriors website over Covid-19 false claims - The Straits Times",
+        "date": ""
+    },
+    {
+        "article_id": "109",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Can I get a booster shot? Latest guidelines for COVID-19 vaccines",
+        "date": ""
+    },
+    {
+        "article_id": "110",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Sonendo Proposes Terms For $125 Million IPO",
+        "date": ""
+    },
+    {
+        "article_id": "111",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Do you have trouble sleeping? Then try a weighted pillow!",
+        "date": ""
+    },
+    {
+        "article_id": "112",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "How to support a person with dementia as lockdowns ease",
+        "date": ""
+    },
+    {
+        "article_id": "113",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "As U.S. COVID deaths drop, FDA panel reviews data on vaccines for children",
+        "date": ""
+    },
+    {
+        "article_id": "114",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19's impact on excess mortality in 2020 varied widely across Europe",
+        "date": ""
+    },
+    {
+        "article_id": "115",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Pakistan: Policeman on polio vaccination duty killed in Khyber Pakhtunkhwa province - ANI News",
+        "date": ""
+    },
+    {
+        "article_id": "116",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Coronavirus: cruise giant Royal Caribbean appeals to Hong Kong authorities to reconsider 21-day service suspension over Covid-19 scare",
+        "date": ""
+    },
+    {
+        "article_id": "117",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Parents more hesitant to vaccinate kids than themselves, researcher says - CTV News",
+        "date": ""
+    },
+    {
+        "article_id": "118",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Genetic Technologies Reports Q1 FY22 Results",
+        "date": ""
+    },
+    {
+        "article_id": "119",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "How to book a free NHS flu jab this winter - and who is eligible",
+        "date": ""
+    },
+    {
+        "article_id": "120",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "N501Y mutation in SARS-CoV-2 Delta variant is key to breakthrough infections - News-Medical.Net",
+        "date": ""
+    },
+    {
+        "article_id": "121",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "FDA nearing vaccine approval for kids between ages 5 and 11",
+        "date": ""
+    },
+    {
+        "article_id": "122",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "How Concerned Should You Be About AY.4.2. Delta Subvariant? An Expert Explains",
+        "date": ""
+    },
+    {
+        "article_id": "123",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "qPCR Instruments Market Size Worth $1.39 Billion By 2028: Grand View Research, Inc.",
+        "date": ""
+    },
+    {
+        "article_id": "124",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "COVID-19: Manitobans can now sign for federal Pan-Canadian proof of vaccination - Globalnews.ca",
+        "date": ""
+    },
+    {
+        "article_id": "125",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Pritzker Levine LLP, Robbins Geller Rudman &amp; Dowd LLP, Sharp Law, LLP, Burns Charest LLP and Keller Rohrback L.L.P., reminder of the November 12, 2021, deadline to submit a claim for compensation from a $345 Million Class Action Settlement with Defendant Pfizer Inc. for Purchasers of EpiPen, EpiPen Jr. and/or their Authorized Generics",
+        "date": ""
+    },
+    {
+        "article_id": "126",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "James Michael Tyler, who played Gunther in 'Friends,' dies of prostate cancer",
+        "date": ""
+    },
+    {
+        "article_id": "127",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0.1,
+            "negative": 0.3
+        },
+        "category": "health",
+        "title": "Moderna says new data supports its COVID vaccine for kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "128",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "CDC director encourages Halloween trick-or-treating",
+        "date": ""
+    },
+    {
+        "article_id": "129",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "How did California go from COVID-19 epicenter to lowest statewide transmission rate?",
+        "date": ""
+    },
+    {
+        "article_id": "130",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "FDA grants Fast Track status to Alkermes' nemvaleukin in ovarian cancer",
+        "date": ""
+    },
+    {
+        "article_id": "131",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Weight loss: Does drinking alcohol really make you put on kilos? We explain - Times of India",
+        "date": ""
+    },
+    {
+        "article_id": "132",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "India: Delhi dengue count tops 1,000, Zika case in Uttar Pradesh - Outbreak News Today - Outbreak News Today",
+        "date": ""
+    },
+    {
+        "article_id": "133",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "289 new cases of COVID-19 over the weekend in northern BC and four more deaths - CKPGToday.ca",
+        "date": ""
+    },
+    {
+        "article_id": "134",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19: Grant Robertson not sure how many vaccinated Kiwi returnees included in unvaccinated numbers - Newshub",
+        "date": ""
+    },
+    {
+        "article_id": "135",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Kent Covid patients up 43% - but 'NHS will cope this Christmas' - Kent Online",
+        "date": ""
+    },
+    {
+        "article_id": "136",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Covid -19 Vaccination Doesn't Raise Miscarriages Risk - Herald",
+        "date": ""
+    },
+    {
+        "article_id": "137",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "How COVID-19 affects household food security",
+        "date": ""
+    },
+    {
+        "article_id": "138",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Brain Cancer Canada Funds Canadian Research Aiming To Treat Brain Cancer",
+        "date": ""
+    },
+    {
+        "article_id": "139",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "SARS-CoV-2 Delta variant transmitted by fully vaccinated individuals in Provincetown, Massachusetts",
+        "date": ""
+    },
+    {
+        "article_id": "140",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Aquestive Therapeutics Reports Positive Topline Data from Phase 1 Pharmacokinetic Trial of AQST-109 (epinephrine prodrug sublingual film) Supporting its Development as an Oral Alternative to Epinephrine Autoinjectors for the Emergency Treatment of Allergic Reactions",
+        "date": ""
+    },
+    {
+        "article_id": "141",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Yoga and HULA HOOPS join quack cures for Covid on social media as doctors warn over misinformation - Daily Mail",
+        "date": ""
+    },
+    {
+        "article_id": "142",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "\u2018Insecurity discouraging Nigerians abroad from investing in health sector\u2019",
+        "date": ""
+    },
+    {
+        "article_id": "143",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Better For You Wellness Signs LOI to Acquire Ironwood Clay Co. and NENA Skincare",
+        "date": ""
+    },
+    {
+        "article_id": "144",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.2,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Guillain-Barr\u00e9 syndrome listed as side effect of AstraZeneca COVID-19 vaccine",
+        "date": ""
+    },
+    {
+        "article_id": "145",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Bangladesh: Community health workers at the heart of a stronger health system and the fight against COVID-19 - Bangladesh - ReliefWeb",
+        "date": ""
+    },
+    {
+        "article_id": "146",
+        "scores": {
+            "positive": 0.4,
+            "neutral": 0.4,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Consuming okro, snails during breastfeeding won\u2019t cause drooling in babies \u2013Experts",
+        "date": ""
+    },
+    {
+        "article_id": "147",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Novartis Is Cheap, AA-Rated Pharma - It's Time To 'Buy'",
+        "date": ""
+    },
+    {
+        "article_id": "148",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Immune response to mRNA COVID vaccines delayed in pregnant women",
+        "date": ""
+    },
+    {
+        "article_id": "149",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "New algorithmic and interactive tools will empower blind people to safeguard private visual content",
+        "date": ""
+    },
+    {
+        "article_id": "150",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Family over self turning lethal for breast cancer patients - The Hindu",
+        "date": ""
+    },
+    {
+        "article_id": "151",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "CODA trial: Antibiotics now accepted as first-line treatment for people with appendicitis",
+        "date": ""
+    },
+    {
+        "article_id": "152",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Study finds 'robust' evidence that COVID-19 is seasonal infection - Deccan Chronicle",
+        "date": ""
+    },
+    {
+        "article_id": "153",
+        "scores": {
+            "positive": 0.3,
+            "neutral": 0.9,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Black and Latino families continue to bear pandemic's great economic toll in U.S.",
+        "date": ""
+    },
+    {
+        "article_id": "154",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Cassava Sciences: Welcome To The Casino",
+        "date": ""
+    },
+    {
+        "article_id": "155",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Covid Scotland: Humza Yousaf refuses to rule out further restrictions amid fears of spike following COP26",
+        "date": ""
+    },
+    {
+        "article_id": "156",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "EMA committee says Moderna boosters can be used in those 18 and over",
+        "date": ""
+    },
+    {
+        "article_id": "157",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "CLS Targets MRI-US Fusion-Guided Focal Laser Ablation of Prostate Tumors",
+        "date": ""
+    },
+    {
+        "article_id": "158",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Study finds link between genes and amount of bacterial toxins in the blood",
+        "date": ""
+    },
+    {
+        "article_id": "159",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Mallinckrodt Presents Results on Real World Treatment Patterns and Outcomes in Hospitalized Patients with Esophageal Variceal Hemorrhage and Liver Cirrhosis Treated with Terlipressin at the American College of Gastroenterology Annual Scientific Meeting",
+        "date": ""
+    },
+    {
+        "article_id": "160",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Vitamin B12 deficiency: Four behavioural changes which could be warnings signs - Daily Express",
+        "date": ""
+    },
+    {
+        "article_id": "161",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Evaxion Biotech inks collaboration and supply agreement for mid-stage cancer trial",
+        "date": ""
+    },
+    {
+        "article_id": "162",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Fewer, higher doses of post-prostatectomy radiation therapy does not increase long-term side effects",
+        "date": ""
+    },
+    {
+        "article_id": "163",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Antiviral Canadian Medical Products deactivate 99.9%+ of COVID-19 in 5 minutes: University of Toronto Testing Lab",
+        "date": ""
+    },
+    {
+        "article_id": "164",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Novartis Q3 2021 Earnings Preview",
+        "date": ""
+    },
+    {
+        "article_id": "165",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Antares Pharma Announces Oral Presentation at the 22nd Annual Fall Scientific Meeting of SMSNA",
+        "date": ""
+    },
+    {
+        "article_id": "166",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Akari nomacopan eyedrops reduced inflammation more than standard of care in model",
+        "date": ""
+    },
+    {
+        "article_id": "167",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Revance Therapeutics slips further as bearish views pile up",
+        "date": ""
+    },
+    {
+        "article_id": "168",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "James Michael Tyler, who played Gunther in 'Friends,' dies of prostate cancer",
+        "date": ""
+    },
+    {
+        "article_id": "169",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "The \u2018Delta Plus' COVID Variant Is Already in Massachusetts. Here's What We Know - NBC10 Boston",
+        "date": ""
+    },
+    {
+        "article_id": "170",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Unum Group announces $250 million share repurchase authorization",
+        "date": ""
+    },
+    {
+        "article_id": "171",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "111 trades in green on strategic partnership with Chugai Pharma China",
+        "date": ""
+    },
+    {
+        "article_id": "172",
+        "scores": {
+            "positive": 0.3,
+            "neutral": 0.7,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "6,072 new COVID-19 deaths, 394,025 fresh cases recorded globally",
+        "date": ""
+    },
+    {
+        "article_id": "173",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna says their low-dose COVID-19 shot works on kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "174",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Study finds 'robust' evidence that Covid-19 is seasonal infection",
+        "date": ""
+    },
+    {
+        "article_id": "175",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Global Ambulatory Infusion Pump Market Worth USD 5,290.55 million by 2027 | Qualiket Research",
+        "date": ""
+    },
+    {
+        "article_id": "176",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "How to live longer: Best food to boost longevity and healthy ageing 'nutrient powerhouse'",
+        "date": ""
+    },
+    {
+        "article_id": "177",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "DICE Therapeutics Initiates Phase 1 Clinical Trial of S011806 for the Treatment of Psoriasis",
+        "date": ""
+    },
+    {
+        "article_id": "178",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "AY.4.2 up to 15% more transmissible than Delta, may be named 'Nu' - Daijiworld.com",
+        "date": ""
+    },
+    {
+        "article_id": "179",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "European Patent Grant Strengthens Small Pharma\u2019s Ketamine-Based Patent Portfolio for the Treatment of Depressive Disorders",
+        "date": ""
+    },
+    {
+        "article_id": "180",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Regulating blood insulin levels in obese, diabetic patients may help reduce COVID-19 risk",
+        "date": ""
+    },
+    {
+        "article_id": "181",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Covid Scotland: First weekend of vaccine passport scheme being enforced was \u2018unmitigated disaster\u2019",
+        "date": ""
+    },
+    {
+        "article_id": "182",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Getting Back to Basics: How FirstBase Skincare is Putting Nature to Work for Skin",
+        "date": ""
+    },
+    {
+        "article_id": "183",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Hearing Aids Market Report [2021-2028] | to Reach USD 11.02 Billion, Exhibiting a CAGR of 7.4%",
+        "date": ""
+    },
+    {
+        "article_id": "184",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna says its low-dose COVID vaccine works for kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "185",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Quitting at younger age cuts most smoking-associated cancer mortality risk",
+        "date": ""
+    },
+    {
+        "article_id": "186",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ranvir Singh health: GMB Presenter 'genuinely worried' about health - 'give up your job'",
+        "date": ""
+    },
+    {
+        "article_id": "187",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Staffer calls Mayo Clinic 'communist' for vaccine rule and resigns her job",
+        "date": ""
+    },
+    {
+        "article_id": "188",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Approval for virus booster shots imminent - The Transcontinental",
+        "date": ""
+    },
+    {
+        "article_id": "189",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Aura Biosciences Aims For $75 Million IPO",
+        "date": ""
+    },
+    {
+        "article_id": "190",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Innovative in vitro platform to evaluate the cardiotoxicity of chemicals",
+        "date": ""
+    },
+    {
+        "article_id": "191",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "4D Molecular Therapeutics Reports Interim Results from the 4D-310 Phase 1/2 Clinical Trial in Patients with Fabry Disease and Provides Clinical Data Update from the 4D-110 Phase 1/2 Clinical Trial in Patients with Choroideremia",
+        "date": ""
+    },
+    {
+        "article_id": "192",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Weight loss: Can Giloy help you lose weight? - Times of India",
+        "date": ""
+    },
+    {
+        "article_id": "193",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Can targeting autophagy become a new approach to COVID-19 treatment?",
+        "date": ""
+    },
+    {
+        "article_id": "194",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "'A Keto Diet And Intermittent Fasting Helped Me Lose 74 Pounds' - Women's Health",
+        "date": ""
+    },
+    {
+        "article_id": "195",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "SARS-CoV-2 delta variant generates infections more quickly than previous strains",
+        "date": ""
+    },
+    {
+        "article_id": "196",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Johnson & Johnson's Billion Dollar Gambit: The Texas Two Step",
+        "date": ""
+    },
+    {
+        "article_id": "197",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "1,200 Kids Admitted To Bengal's Burdwan Medical College, 9 Dead - OTV News",
+        "date": ""
+    },
+    {
+        "article_id": "198",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Heart to Heart raises $750K to bring sweet, sweet flirtation to your ear-holes",
+        "date": ""
+    },
+    {
+        "article_id": "199",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Salk scientists find a way that neurons and astrocytes work together to form healthy synapses",
+        "date": ""
+    },
+    {
+        "article_id": "200",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "'Modi wants drones to deliver postal packages to remote areas'",
+        "date": ""
+    },
+    {
+        "article_id": "201",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Stocks to track Covid, earnings figures",
+        "date": ""
+    },
+    {
+        "article_id": "202",
+        "scores": {
+            "positive": 0.6,
+            "neutral": 0.6,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Ontario reports 326 new COVID-19 cases",
+        "date": ""
+    },
+    {
+        "article_id": "203",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Opinion: A lot of B.C. workers seem ready to get fired over COVID-19 vaccinations",
+        "date": ""
+    },
+    {
+        "article_id": "204",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Britischer Popstar: Ed Sheeran positiv auf Corona getestet",
+        "date": ""
+    },
+    {
+        "article_id": "205",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "COVID-19 update for Oct. 25: Olympians to be tested daily in Beijing | B.C. lifting some COVID-19 restrictions today | U.S. to outline Nov. 8 reopening - Vancouver Sun",
+        "date": ""
+    },
+    {
+        "article_id": "206",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Investors turn Hong Kong hotel assets into co-living space on higher occupancy, profit appeal",
+        "date": ""
+    },
+    {
+        "article_id": "207",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "More than 9 out of 10 workers comply with vaccine mandates, but some remain defiant",
+        "date": ""
+    },
+    {
+        "article_id": "208",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Everything We Know About Ed Sheeran\u2019s \u2018=\u2019 Album (So Far)",
+        "date": ""
+    },
+    {
+        "article_id": "209",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Hong Kong to tighten COVID-19 rules, seeks to open to China",
+        "date": ""
+    },
+    {
+        "article_id": "210",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ed Sheeran tests positive for COVID, cancels in-person performances, interviews",
+        "date": ""
+    },
+    {
+        "article_id": "211",
+        "scores": {
+            "positive": 0.4,
+            "neutral": 0.2,
+            "negative": 0.5
+        },
+        "category": "health",
+        "title": "China Outbreak Widens; Singapore Fake-News Notice: Virus Update",
+        "date": ""
+    },
+    {
+        "article_id": "212",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "What to \u2018Boo\u2019 on Halloween: Safety tips",
+        "date": ""
+    },
+    {
+        "article_id": "213",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "GOP hopeful Ciattarelli rips NJ Gov Murphy over Bill of Rights 'above my pay grade' comment",
+        "date": ""
+    },
+    {
+        "article_id": "214",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Merck asks EU regulator to authorize pill that treats COVID",
+        "date": ""
+    },
+    {
+        "article_id": "215",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Moderna reports positive results for Covid vaccine in younger children",
+        "date": ""
+    },
+    {
+        "article_id": "216",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna Says Its Covid Shot Generates \u2018Strong\u2019 Immune Response In Kids Aged 6-11",
+        "date": ""
+    },
+    {
+        "article_id": "217",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Seattle's Pike Place Market struggles to find footing since COVID-19",
+        "date": ""
+    },
+    {
+        "article_id": "218",
+        "scores": {
+            "positive": 0.3,
+            "neutral": 0.6,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Paper Talk: 12 Prem clubs including Newcastle to register transfer interest in Man Utd star; Tottenham star\u2019s crisis talks",
+        "date": ""
+    },
+    {
+        "article_id": "219",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Single-Arm Medical Pendant Market Predicted to Attain $516 Million by 2030, Claims Allied Market Research",
+        "date": ""
+    },
+    {
+        "article_id": "220",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Yoga and HULA HOOPS join quack cures for Covid on social media as doctors warn over misinformation - Daily Mail",
+        "date": ""
+    },
+    {
+        "article_id": "221",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Green Bay Packers Wideout Davante Adams Placed On COVID-19 List",
+        "date": ""
+    },
+    {
+        "article_id": "222",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Victoria records 1510 new cases of COVID-19, health advice to be made public under new pandemic laws - 9News",
+        "date": ""
+    },
+    {
+        "article_id": "223",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Two new COVID-19 deaths reported in Manitoba, 334 cases since Friday",
+        "date": ""
+    },
+    {
+        "article_id": "224",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Chinese province closes tourist sites following virus cases",
+        "date": ""
+    },
+    {
+        "article_id": "225",
+        "scores": {
+            "positive": 0.6,
+            "neutral": 0.2,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Covid-19: Japanese city races against time to sharpen pencils that will be used in the country\u2019s general election",
+        "date": ""
+    },
+    {
+        "article_id": "226",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "One death and 57 new COVID-19 cases reported over the weekend",
+        "date": ""
+    },
+    {
+        "article_id": "227",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "PH detects first case of new variant",
+        "date": ""
+    },
+    {
+        "article_id": "228",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Covid news - live: Plan B isn\u2019t needed to reduce cases, No 10 says, as daily infections soar by nearly 37,000 - The Independent",
+        "date": ""
+    },
+    {
+        "article_id": "229",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Singapore deploys its fake news law against anti-vaxxer group",
+        "date": ""
+    },
+    {
+        "article_id": "230",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "No quarantine for fully vaccinated players at Australian Open",
+        "date": ""
+    },
+    {
+        "article_id": "231",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "New COVID cases surge in Eastern Europe, as region experiences worse outbreak of the pandemic",
+        "date": ""
+    },
+    {
+        "article_id": "232",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "\u2018BMF\u2019: Tasha Smith Says It Was Important to Humanize Big Meech and Southwest T",
+        "date": ""
+    },
+    {
+        "article_id": "233",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Tourism sector sees signs of revival after COVID second wave",
+        "date": ""
+    },
+    {
+        "article_id": "234",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Study suggests seropositive individuals produce anti-SARS-CoV-2 antibodies with improved potency and breadth",
+        "date": ""
+    },
+    {
+        "article_id": "235",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "135 COVID cases detected, 26,842 samples tested",
+        "date": ""
+    },
+    {
+        "article_id": "236",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Crown to retain Melbourne casino licence despite 'disgraceful' conduct - 9News",
+        "date": ""
+    },
+    {
+        "article_id": "237",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "No room for Kyrgios in Aussie Davis Cup squad",
+        "date": ""
+    },
+    {
+        "article_id": "238",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Facebook staff say core products make misinformation worse",
+        "date": ""
+    },
+    {
+        "article_id": "239",
+        "scores": {
+            "positive": 0.4,
+            "neutral": 0.3,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Bayern Munich club members move to end Qatar Airways sponsorship at general assembly",
+        "date": ""
+    },
+    {
+        "article_id": "240",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Manitoba declares COVID-19 outbreaks at school, care home, and church - CTV News Winnipeg",
+        "date": ""
+    },
+    {
+        "article_id": "241",
+        "scores": {
+            "positive": 0.6,
+            "neutral": 0,
+            "negative": 0.4
+        },
+        "category": "health",
+        "title": "\u2018Brave\u2019 Adele Roberts supported by Radio 1 colleagues ahead of bowel cancer tumour removal",
+        "date": ""
+    },
+    {
+        "article_id": "242",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.3,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Russian COVID cases hit record high as eastern Europe imposes new curbs",
+        "date": ""
+    },
+    {
+        "article_id": "243",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Sunak refuses to commit to wearing mask in crowded Commons",
+        "date": ""
+    },
+    {
+        "article_id": "244",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "B.C. records 20 weekend COVID deaths, 90% of adults have received vaccine",
+        "date": ""
+    },
+    {
+        "article_id": "245",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna says its COVID-19 vaccine generated robust immune response in children ages 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "246",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Taxing the super rich",
+        "date": ""
+    },
+    {
+        "article_id": "247",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna says their low-dose COVID-19 shot works on kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "248",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ron DeSantis insists his police hiring spree has nothing to do with scooping up officers who left their jobs over vaccine requirements",
+        "date": ""
+    },
+    {
+        "article_id": "249",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Coronavirus live: UK travel rules relaxed as arrivals can now use cheaper lateral flow tests - The Guardian",
+        "date": ""
+    },
+    {
+        "article_id": "250",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Arunachal Pradesh Deputy CM Chowna Mein seeks teamwork on 'unsung heroes' project",
+        "date": ""
+    },
+    {
+        "article_id": "251",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "NYC workers vaccine mandate protest shuts down Brooklyn Bridge traffic into Manhattan",
+        "date": ""
+    },
+    {
+        "article_id": "252",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Former COVID-19 recovery boss Neville Power charged over alleged WA border breaches - Sydney Morning Herald",
+        "date": ""
+    },
+    {
+        "article_id": "253",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "B.C. lifting COVID-19 restrictions but not everyone ready to resume usual gatherings",
+        "date": ""
+    },
+    {
+        "article_id": "254",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ontario reports 370 new COVID cases Sunday - SooToday",
+        "date": ""
+    },
+    {
+        "article_id": "255",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "B.C. lifting COVID-19 restrictions but not everyone ready to resume usual gatherings",
+        "date": ""
+    },
+    {
+        "article_id": "256",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "20 COVID-19 deaths recorded over the weekend in B.C., latest update says",
+        "date": ""
+    },
+    {
+        "article_id": "257",
+        "scores": {
+            "positive": 0.5,
+            "neutral": 0.3,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "WATCH: City employees in New York march across Brooklyn Bridge, stall traffic, in protest against Covid-19 vaccine mandate",
+        "date": ""
+    },
+    {
+        "article_id": "258",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Race to stamp out new Covid outbreak before Beijing Winter Olympics",
+        "date": ""
+    },
+    {
+        "article_id": "259",
+        "scores": {
+            "positive": 0.4,
+            "neutral": 0.8,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Dutch consider new coronavirus curbs as infections soar",
+        "date": ""
+    },
+    {
+        "article_id": "260",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "UK 'leaning towards' mandatory Covid vaccines for health care workers - CNN",
+        "date": ""
+    },
+    {
+        "article_id": "261",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Coronavirus circumstances In India: Dying toll from corona greater, 443 other folks died in an afternoon",
+        "date": ""
+    },
+    {
+        "article_id": "262",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Florida Gov. DeSantis recruits unvaccinated officers with cash bonuses - NBC News",
+        "date": ""
+    },
+    {
+        "article_id": "263",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "River View School to go virtual for at least 10 days beginning Monday due to COVID cases",
+        "date": ""
+    },
+    {
+        "article_id": "264",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0.2,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Vancouver Canucks eager for return to home arena packed with fans",
+        "date": ""
+    },
+    {
+        "article_id": "265",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ed Sheeran tests positive for COVID - but says he will gig from home",
+        "date": ""
+    },
+    {
+        "article_id": "266",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ed Sheeran reveals COVID diagnosis days before album = due to drop - PerthNow",
+        "date": ""
+    },
+    {
+        "article_id": "267",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "March Madness: Temporary increase in COVID-19 cases in counties where universities played in NCAA Tournament",
+        "date": ""
+    },
+    {
+        "article_id": "268",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Immune response to mRNA COVID vaccines delayed in pregnant women",
+        "date": ""
+    },
+    {
+        "article_id": "269",
+        "scores": {
+            "positive": 0.4,
+            "neutral": 0.7,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Supporters of paid sick leave in B.C. advocate from Vancouver and Victoria",
+        "date": ""
+    },
+    {
+        "article_id": "270",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Schools urged to ditch pre-Cup Day holiday - Herald Sun",
+        "date": ""
+    },
+    {
+        "article_id": "271",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0.3,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Province reports 170 new cases of COVID-19, no new deaths",
+        "date": ""
+    },
+    {
+        "article_id": "272",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "BYU\u2019s win over Wazzu a confidence-builder ahead of former coach Bronco Mendenhall coming to town",
+        "date": ""
+    },
+    {
+        "article_id": "273",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Exclusive: African Union to buy up to 110 million Moderna COVID-19 vaccines - officials",
+        "date": ""
+    },
+    {
+        "article_id": "274",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Red Cross urges action for COVID-hit PNG",
+        "date": ""
+    },
+    {
+        "article_id": "275",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "FDA panel meets Tuesday to discuss COVID-19 vaccine for children",
+        "date": ""
+    },
+    {
+        "article_id": "276",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ed Sheeran will hold planned performances from home after testing positive for COVID-19",
+        "date": ""
+    },
+    {
+        "article_id": "277",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Vellore records 14 fresh cases of infection",
+        "date": ""
+    },
+    {
+        "article_id": "278",
+        "scores": {
+            "positive": 0.2,
+            "neutral": 0,
+            "negative": 0.8
+        },
+        "category": "health",
+        "title": "Pac-12 men\u2019s basketball preview: Can league capitalize on record-setting NCAA Tournament performances?",
+        "date": ""
+    },
+    {
+        "article_id": "279",
+        "scores": {
+            "positive": 0.2,
+            "neutral": 0.1,
+            "negative": 0.4
+        },
+        "category": "health",
+        "title": "'Striking' rise in pregnant women in ICU for Covid treatment",
+        "date": ""
+    },
+    {
+        "article_id": "280",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Glass shortage, shipping delays slowing down Savanna production - manufacturer",
+        "date": ""
+    },
+    {
+        "article_id": "281",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Moderna says new data supports its COVID vaccine for kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "282",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Jeff Probst Doesn\u2019t Cut His Hair Through \u2018Survivor\u2019 Season 41 or 42, Talks \u2018Impressive Mullet\u2019",
+        "date": ""
+    },
+    {
+        "article_id": "283",
+        "scores": {
+            "positive": 0.5,
+            "neutral": 0,
+            "negative": 0.4
+        },
+        "category": "health",
+        "title": "COP26: Funding Innovation Crucial for Strengthening Climate-Stressed Food Systems",
+        "date": ""
+    },
+    {
+        "article_id": "284",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Planet, prosperity and people constitute key talking points in latest G20 summit briefing book",
+        "date": ""
+    },
+    {
+        "article_id": "285",
+        "scores": {
+            "positive": 0.6,
+            "neutral": 0.4,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "\u2018Curb Your Enthusiasm\u2019: Larry David\u2019s Biggest Annoyance in Premiere Was This Aspect of COVID-19",
+        "date": ""
+    },
+    {
+        "article_id": "286",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Fauci predicts Covid shots for kids five to 11 will be available by early November - The Guardian",
+        "date": ""
+    },
+    {
+        "article_id": "287",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Social distancing in the South Stand? Sevens won\u2019t be the same, but this could be Hong Kong Stadium\u2019s last hurrah",
+        "date": ""
+    },
+    {
+        "article_id": "288",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "COVID-19 in Alberta: 25 more deaths as province adds 1.6K weekend cases",
+        "date": ""
+    },
+    {
+        "article_id": "289",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Military to support Saskatchewan with up to six critical care nursing officers",
+        "date": ""
+    },
+    {
+        "article_id": "290",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ed Sheeran tests positive for COVID, cancels in-person performances, interviews",
+        "date": ""
+    },
+    {
+        "article_id": "291",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Namibia halts use of Sputnik jabs after SAfrican HIV fears",
+        "date": ""
+    },
+    {
+        "article_id": "292",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "31 new COVID cases in South Coastal A.P.",
+        "date": ""
+    },
+    {
+        "article_id": "293",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19 outbreak in asylum seeker hotel is a national scandal - The Age",
+        "date": ""
+    },
+    {
+        "article_id": "294",
+        "scores": {
+            "positive": 0.3,
+            "neutral": 0.4,
+            "negative": 0.6
+        },
+        "category": "health",
+        "title": "Australia looks to roll out Covid-19 booster shots soon as curbs ease",
+        "date": ""
+    },
+    {
+        "article_id": "295",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0.3,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "\u2018SNL\u2019 producers \u2018scrambling\u2019 to replace Ed Sheeran amid COVID-19 diagnosis",
+        "date": ""
+    },
+    {
+        "article_id": "296",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "NBA-Protesters show support for Irving&#039;s vaccine stance ahead of Nets game",
+        "date": ""
+    },
+    {
+        "article_id": "297",
+        "scores": {
+            "positive": 0.6,
+            "neutral": 0.2,
+            "negative": 0.3
+        },
+        "category": "health",
+        "title": "Leaked memo paves way for Covid Plan B but Sunak says it\u2019s not needed \u2018immediately\u2019",
+        "date": ""
+    },
+    {
+        "article_id": "298",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Sajid Javid \u2018leaning towards\u2019 mandatory Covid jab for NHS staff - The Guardian",
+        "date": ""
+    },
+    {
+        "article_id": "299",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "IODAI Kick Start Junior Sailing Pathway with Optimist 'National Training Week' at Malahide Yacht Club",
+        "date": ""
+    },
+    {
+        "article_id": "300",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "EOHU recommending flu shots for area residents, as winter approaches - The Review Newspaper",
+        "date": ""
+    },
+    {
+        "article_id": "301",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0.2,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ontario lifts capacity limits in restaurants, gyms, casinos",
+        "date": ""
+    },
+    {
+        "article_id": "302",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Moderna says vaccine is safe for kids 6 to 11",
+        "date": ""
+    },
+    {
+        "article_id": "303",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Nigeira Still Battling 'Circulating Vaccine Derived Polio Virus' Type 2 - TVC News Nigeria",
+        "date": ""
+    },
+    {
+        "article_id": "304",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Alabama governor signs executive order to \"fight the overreaching\" vaccine mandates",
+        "date": ""
+    },
+    {
+        "article_id": "305",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Victoria Covid update: sweeping laws to give premier power to declare pandemics",
+        "date": ""
+    },
+    {
+        "article_id": "306",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "N501Y mutation in SARS-CoV-2 Delta variant is key to breakthrough infections - News-Medical.Net",
+        "date": ""
+    },
+    {
+        "article_id": "307",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "B.C.\u2019s COVID-19 case rate starts to decline, 20 more deaths in 3 days - Mission City Record",
+        "date": ""
+    },
+    {
+        "article_id": "308",
+        "scores": {
+            "positive": 0.6,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Parents more hesitant to vaccinate their kids against COVID-19. Here\u2019s why",
+        "date": ""
+    },
+    {
+        "article_id": "309",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Intel CEO: COVID is 'just a huge accelerant in the digitization of humanity'",
+        "date": ""
+    },
+    {
+        "article_id": "310",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Gottlieb says kids could start getting COVID vaccine as soon as November 4",
+        "date": ""
+    },
+    {
+        "article_id": "311",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "58 new COVID-19 cases in Salem",
+        "date": ""
+    },
+    {
+        "article_id": "312",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19: Millions of booster jab invitations being sent out as government resists more calls for Plan B",
+        "date": ""
+    },
+    {
+        "article_id": "313",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "One Death, 57 New Cases of COVID-19, 63 Recoveries - Government of Nova Scotia",
+        "date": ""
+    },
+    {
+        "article_id": "314",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Africa tries to end vaccine inequity by replicating its own",
+        "date": ""
+    },
+    {
+        "article_id": "315",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Comedy comeback: Laughing through COVID-19 with comedian Kate Davis",
+        "date": ""
+    },
+    {
+        "article_id": "316",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Chloroprene Rubber Market Worth USD 1390 million by 2027| CAGR of 4.6% : Qualiket Research",
+        "date": ""
+    },
+    {
+        "article_id": "317",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Fauci says it's 'very likely' kids 5-11 will be able to get COVID vaccinations by early November - Daily Mail",
+        "date": ""
+    },
+    {
+        "article_id": "318",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Bucs Fan Who Returned Tom Brady's Ball Has One Request",
+        "date": ""
+    },
+    {
+        "article_id": "319",
+        "scores": {
+            "positive": 0.1,
+            "neutral": 0.1,
+            "negative": 1
+        },
+        "category": "health",
+        "title": "Box Office: \u2018Dune\u2019 Nabs $40M Debut To Top $220M Global",
+        "date": ""
+    },
+    {
+        "article_id": "320",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Apple releases iOS 15.1 with SharePlay and more iPhone 13 Pro camera options - The Verge",
+        "date": ""
+    },
+    {
+        "article_id": "321",
+        "scores": {
+            "positive": 0.6,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Feels like America has accepted Formula One, says Hamilton",
+        "date": ""
+    },
+    {
+        "article_id": "322",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ed Sheeran tests positive for COVID-19",
+        "date": ""
+    },
+    {
+        "article_id": "323",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.2,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Ed Sheeran has COVID-19. Will he still appear on \u2018The Voice\u2019? ",
+        "date": ""
+    },
+    {
+        "article_id": "324",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "TNRD audit delayed due to expanded scope of investigation",
+        "date": ""
+    },
+    {
+        "article_id": "325",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.2,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Bavarian Podcast Works S4E12: Joshua Kimmich\u2019s vaccine decision, Bundesliga marketing vs El Clasico hype, Lewy vs Haaland, and more!",
+        "date": ""
+    },
+    {
+        "article_id": "326",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "\u2018Dancing With the Stars\u2019 Fans Freak out Over Derek Hough\u2019s Major Announcement",
+        "date": ""
+    },
+    {
+        "article_id": "327",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19 Vaccination: NLC Cautions Against Use Of Force",
+        "date": ""
+    },
+    {
+        "article_id": "328",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ed Sheeran tests positive for COVID-19",
+        "date": ""
+    },
+    {
+        "article_id": "329",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Covid-19 deaths (Oct 26): 92 reported fatalities, total at 28,492",
+        "date": ""
+    },
+    {
+        "article_id": "330",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ed Sheeran reveals he has tested positive for Covid and is self-isolating - The Independent",
+        "date": ""
+    },
+    {
+        "article_id": "331",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0.1,
+            "negative": 0.3
+        },
+        "category": "health",
+        "title": "Fintech\u2019s growing role in the healthcare revolution",
+        "date": ""
+    },
+    {
+        "article_id": "332",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Covid LIVE: 'Impossible to book' Fury as vulnerable pensioners, 90, face booster jab chaos",
+        "date": ""
+    },
+    {
+        "article_id": "333",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "'Need to happen now!' Scientist calls for more social distancing to prevent NHS crisis",
+        "date": ""
+    },
+    {
+        "article_id": "334",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "UK&#039;s Prince Charles to visit Jordan and Egypt",
+        "date": ""
+    },
+    {
+        "article_id": "335",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Singer-songwriter Ed Sheeran reveals he has tested positive for Covid-19",
+        "date": ""
+    },
+    {
+        "article_id": "336",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Neville Power and son Nick \u2018breached COVID restrictions on private helicopter flight from Queensland to WA\u2019",
+        "date": ""
+    },
+    {
+        "article_id": "337",
+        "scores": {
+            "positive": 0.4,
+            "neutral": 0.7,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Fillier scores 2, Canada beats US again in women\u2019s hockey",
+        "date": ""
+    },
+    {
+        "article_id": "338",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0.2,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "You\u2019s Penn Badgley and Victoria Pedretti reveal secret struggle behind season 3\u2019s steamy sex scenes",
+        "date": ""
+    },
+    {
+        "article_id": "339",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Biden average approval rating dips to new low: FiveThirtyEight | TheHill - The Hill",
+        "date": ""
+    },
+    {
+        "article_id": "340",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Covid-19: Only 107 of 5,666 new cases show serious symptoms, says Health DG",
+        "date": ""
+    },
+    {
+        "article_id": "341",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Vic has 1510 COVID-19 cases, four deaths",
+        "date": ""
+    },
+    {
+        "article_id": "342",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.4,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Lessons unlearned from past pandemics",
+        "date": ""
+    },
+    {
+        "article_id": "343",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19: Outbreak at closed Ottawa school continues to grow; Restaurants and gyms can open at full capacity, Ontario reports 326 new cases - Ottawa Citizen",
+        "date": ""
+    },
+    {
+        "article_id": "344",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Fauci fires back at Rand Paul for slam on tonight's \"Axios on HBO\" - Axios",
+        "date": ""
+    },
+    {
+        "article_id": "345",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "COVID-19 vaccinations on rise following release of Queensland's roadmap - ABC News",
+        "date": ""
+    },
+    {
+        "article_id": "346",
+        "scores": {
+            "positive": 0.1,
+            "neutral": 0.7,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Exclusion zones needed to block \u2018idiot\u2019 anti-vaxxers from holding protests outside schools, UK health secretary says",
+        "date": ""
+    },
+    {
+        "article_id": "347",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Pediatric vaccines will 'very likely' be available 1st or 2nd week of November: Fauci - ABC News",
+        "date": ""
+    },
+    {
+        "article_id": "348",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "MA63: Sabah hopes its claims be considered in amending Federal Constitution, says CM",
+        "date": ""
+    },
+    {
+        "article_id": "349",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Covid-19 accelerated digital transformation in all aspects of life, says PM",
+        "date": ""
+    },
+    {
+        "article_id": "350",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "EU drug regulator OKs booster doses of Moderna\u2019s COVID shot",
+        "date": ""
+    },
+    {
+        "article_id": "351",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "China says 76% of population have received complete doses of COVID-19 vaccines",
+        "date": ""
+    },
+    {
+        "article_id": "352",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19's route from pandemic to endemic",
+        "date": ""
+    },
+    {
+        "article_id": "353",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "No new Covid-19 cases recorded in Andaman & Nicobar Islands in past 24 hours",
+        "date": ""
+    },
+    {
+        "article_id": "354",
+        "scores": {
+            "positive": 0.1,
+            "neutral": 1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Inquest into COVID-19 deaths at Quebec long-term care home hears from final witnesses",
+        "date": ""
+    },
+    {
+        "article_id": "355",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Singer Ed Sheeran tests positive for COVID-19, will do performances from home - ABC News",
+        "date": ""
+    },
+    {
+        "article_id": "356",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ed Sheeran positif \u00e0 la Covid-19 : Terence James (The Voice All-Stars) test\u00e9 ce matin",
+        "date": ""
+    },
+    {
+        "article_id": "357",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ontario reports 370 COVID-19 cases, one new virus-related death",
+        "date": ""
+    },
+    {
+        "article_id": "358",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Parents more hesitant to vaccinate kids than themselves, researcher says",
+        "date": ""
+    },
+    {
+        "article_id": "359",
+        "scores": {
+            "positive": 0.9,
+            "neutral": 0.2,
+            "negative": 0.3
+        },
+        "category": "health",
+        "title": "PKR man sees possible five-cornered fight in Marudi",
+        "date": ""
+    },
+    {
+        "article_id": "360",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Mandatory vaccinations for hospital visitors starting Nov. 1: LHSC",
+        "date": ""
+    },
+    {
+        "article_id": "361",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "117 patients, staff at polyclinic given wrong vaccine doses",
+        "date": ""
+    },
+    {
+        "article_id": "362",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "NSW eyes relaxing more Covid rules early as vaccine target nears",
+        "date": ""
+    },
+    {
+        "article_id": "363",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Europe drug regulator backs use of Moderna\u2019s COVID-19 booster vaccine",
+        "date": ""
+    },
+    {
+        "article_id": "364",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "GP education department urges parents to help distressed pupils during exams",
+        "date": ""
+    },
+    {
+        "article_id": "365",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Manitobans can now get federal proof of COVID-19 vaccination for travel - Vancouver Is Awesome",
+        "date": ""
+    },
+    {
+        "article_id": "366",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Survey to identify people yet to get one dose of COVID-19 vaccine",
+        "date": ""
+    },
+    {
+        "article_id": "367",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Quebec reports 429 new COVID-19 cases and two more deaths",
+        "date": ""
+    },
+    {
+        "article_id": "368",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0.5,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Star hooker at centre of NRL standoff",
+        "date": ""
+    },
+    {
+        "article_id": "369",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0.2,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Sarawak minister Abdul Karim says he prefers no open campaign, no open rally for state polls",
+        "date": ""
+    },
+    {
+        "article_id": "370",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Georgia man spent $57,000 of COVID relief funds on Pokemon card - New York Post",
+        "date": ""
+    },
+    {
+        "article_id": "371",
+        "scores": {
+            "positive": 0.2,
+            "neutral": 1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Alabama jumps OU to No. 3; Penn State falls to 20th",
+        "date": ""
+    },
+    {
+        "article_id": "372",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Coronavirus: What's happening in Canada and around the world on Sunday - CBC.ca",
+        "date": ""
+    },
+    {
+        "article_id": "373",
+        "scores": {
+            "positive": 0.2,
+            "neutral": 0.9,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Drug overdoses surge at Limerick homeless shelter during pandemic",
+        "date": ""
+    },
+    {
+        "article_id": "374",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Australia Post, NBN pay out $300 million in bonuses during COVID",
+        "date": ""
+    },
+    {
+        "article_id": "375",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "B.C. lifting venue capacity limits across much of the province as COVID-19 cases ease",
+        "date": ""
+    },
+    {
+        "article_id": "376",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "The Spooktacular Pumpkin Walk is back at Mission Creek Regional Park (Kelowna)",
+        "date": ""
+    },
+    {
+        "article_id": "377",
+        "scores": {
+            "positive": 0.2,
+            "neutral": 0.7,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Fillier scores twice as Canada beats U.S. again in women\u2019s hockey",
+        "date": ""
+    },
+    {
+        "article_id": "378",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Increase in number of people registering for Covid-19 vaccine - HSE",
+        "date": ""
+    },
+    {
+        "article_id": "379",
+        "scores": {
+            "positive": 0.1,
+            "neutral": 1,
+            "negative": 0.1
+        },
+        "category": "health",
+        "title": "Negros Oriental appeals Alert Level 4 status",
+        "date": ""
+    },
+    {
+        "article_id": "380",
+        "scores": {
+            "positive": 0.7,
+            "neutral": 0.3,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Eight things we learned from the Facebook Papers",
+        "date": ""
+    },
+    {
+        "article_id": "381",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Kevin King, Preston Smith listed as limited practice participants",
+        "date": ""
+    },
+    {
+        "article_id": "382",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "COVID-19 live updates: Victorian business groups say Friday will be a day of celebration when more COVID restrictions ease - ABC News",
+        "date": ""
+    },
+    {
+        "article_id": "383",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Ed Sheeran self-isolates after testing positive for Covid-19",
+        "date": ""
+    },
+    {
+        "article_id": "384",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Province Reports 36 New Cases of COVID-19 Today - VOCM",
+        "date": ""
+    },
+    {
+        "article_id": "385",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Neville Power and son Nick 'breached COVID restrictions on private helicopter flight from Queensland to WA' - The West Australian",
+        "date": ""
+    },
+    {
+        "article_id": "386",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Vaccine mandate for B.C. health-care workers to take effect Tuesday",
+        "date": ""
+    },
+    {
+        "article_id": "387",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Stansted and Southend Airport: PCR Covid test rules change for families travelling over half-term - Essex Live",
+        "date": ""
+    },
+    {
+        "article_id": "388",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Ed Sheeran tests positive for coronavirus, singer says on Instagram - The Washington Post",
+        "date": ""
+    },
+    {
+        "article_id": "389",
+        "scores": {
+            "positive": 0.1,
+            "neutral": 0.7,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "AAMSU Moves Gauhati HC Against Satya Ranjan Borah For His Derogatory Remarks",
+        "date": ""
+    },
+    {
+        "article_id": "390",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "COVID-19: Ed Sheeran tests positive for coronavirus - but says he will gig from home - Sky News",
+        "date": ""
+    },
+    {
+        "article_id": "391",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Vaccines for kids under 12 'very likely' to be available 1st or 2nd week of November: Fauci",
+        "date": ""
+    },
+    {
+        "article_id": "392",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Florida Gov. Ron DeSantis says he wants to give police officers a $5,000 bonus to move to Florida, where they can escape vaccine mandates",
+        "date": ""
+    },
+    {
+        "article_id": "393",
+        "scores": {
+            "positive": 1,
+            "neutral": 0.1,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "Used car market likely to enjoy continued growth",
+        "date": ""
+    },
+    {
+        "article_id": "394",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Manitobans can now get federal proof of COVID-19 vaccination for travel",
+        "date": ""
+    },
+    {
+        "article_id": "395",
+        "scores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "20 more people die of COVID-19 in B.C. as 1,618 new cases recorded over 3 days",
+        "date": ""
+    },
+    {
+        "article_id": "396",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.1,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "\u2018Just like history has layers, so does supernatural activity\u2019 \u2013 pandemic trauma sparks surge in paranormal contact",
+        "date": ""
+    },
+    {
+        "article_id": "397",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0.3,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "Russian COVID cases hit record high as eastern Europe imposes new curbs",
+        "date": ""
+    },
+    {
+        "article_id": "398",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0.2
+        },
+        "category": "health",
+        "title": "HSBC profits rise 74% as economy rebounds from Covid crisis - The Guardian",
+        "date": ""
+    },
+    {
+        "article_id": "399",
+        "scores": {
+            "positive": 0.8,
+            "neutral": 0,
+            "negative": 0
+        },
+        "category": "health",
+        "title": "ACT records 12 new cases of COVID-19 on Tuesday - The Canberra Times",
+        "date": ""
+    }
+]
