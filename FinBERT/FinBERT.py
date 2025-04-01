@@ -10,14 +10,14 @@ class FinBERTAnalyzer:
         # Initialize FinBERT model and tokenizer
         self.tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
         self.model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
-        self.labels = ['negative', 'neutral', 'positive']
+        self.labels = ['positive', 'neutral', 'negative']
 
     def get_sentiment_score(self, text):
         if not isinstance(text, str) or not text.strip():
             return {
-                'negative': 0,
+                'positive': 0,
                 'neutral': 0,
-                'positive': 0
+                'negative': 0
             }
             
         # Prepare the text for the model
@@ -30,9 +30,9 @@ class FinBERTAnalyzer:
         # Convert predictions to scores
         scores = predictions[0].tolist()
         sentiment_scores = {
-            'negative': scores[0],
+            'positive': scores[2],
             'neutral': scores[1],
-            'positive': scores[2]
+            'negative': scores[0]
         }
         
         return sentiment_scores
@@ -152,9 +152,9 @@ def process_datasets():
             'category': r['category'],
             'title': r['title'],
             'date': r['date'],
-            'negative_score': r['scores']['negative'],
+            'positive_score': r['scores']['positive'],
             'neutral_score': r['scores']['neutral'],
-            'positive_score': r['scores']['positive']
+            'negative_score': r['scores']['negative']
         }
         for r in results
     ])
