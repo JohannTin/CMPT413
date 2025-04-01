@@ -6,7 +6,7 @@ INITIAL_BANKROLL = 10000
 TRADE_PERCENTAGE = 0.3  # Default trade percentage if not using confidence-based sizing
 CONFIDENCE_THRESHOLD = 0.95  # Minimum confidence level required to execute trades
 STOP_LOSS_PERCENTAGE = 0.03  # % stop loss
-PREDICTIONS_FILE = 'lstm_predictions_xlv.csv'
+PREDICTIONS_FILE = 'lstm_predictions_jnj.csv'
 
 # Confidence-based trade sizing configuration
 CONFIDENCE_TRADE_SIZES = {
