@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 # Configuration
 CONFIG = {
-    "SYMBOL": "JNJ",
+    "SYMBOL": "XLV",
     "SEQUENCE_LENGTHS": [30],
     "TRAIN_SIZE_RATIO": 0.85,
     "EPOCHS": 100,
@@ -67,8 +67,8 @@ class AttentionLayer(Layer):
 def load_and_prepare_data():
     """Load and prepare price data with indicators."""
     # Load price data with indicators
-    print("Loading data from jnj_data.csv...")
-    df = pd.read_csv("jnj_data.csv")
+    print("Loading data from XLV_data.csv...")
+    df = pd.read_csv("XLV_data.csv")
     df["Date"] = pd.to_datetime(df["Unnamed: 0"])
     df.set_index("Date", inplace=True)
     df = df.sort_index()
@@ -238,8 +238,8 @@ def main():
         batch_size=best_params["batch_size"],
         verbose=0,
     )
-    best_model.save("models/lstm_model_jnj.h5")
-    print("Final model saved to models/lstm_model_jnj.h5")
+    best_model.save("models/lstm_model_XLV.h5")
+    print("Final model saved to models/lstm_model_XLV.h5")
 
     train_predictions = best_model.predict(X_train, verbose=0)
     test_predictions = best_model.predict(X_test, verbose=0)
@@ -310,11 +310,11 @@ def main():
         label="Sell Signal",
     )
 
-    plt.title("JNJ Stock Price Prediction with Trading Signals")
+    plt.title("XLV Stock Price Prediction with Trading Signals")
     plt.xlabel("Date")
     plt.ylabel("Price (USD)")
     plt.legend()
-    plt.savefig("training_history_jnj.png")
+    plt.savefig("training_history_XLV.png")
 
     # Next day prediction
     last_sequence = scaled_data[-best_params["sequence_length"] :]
@@ -352,8 +352,8 @@ def main():
             "SMA_200": df["200_SMA"].iloc[-len(test_predictions) :].values,
         }
     )
-    predictions_df.to_csv("lstm_predictions_jnj.csv", index=False)
-    print("Predictions saved to lstm_predictions_jnj.csv")
+    predictions_df.to_csv("lstm_predictions_XLV.csv", index=False)
+    print("Predictions saved to lstm_predictions_XLV.csv")
 
 
 if __name__ == "__main__":
