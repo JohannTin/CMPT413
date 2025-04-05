@@ -8,6 +8,7 @@ from tensorflow.keras import backend as K
 import matplotlib.pyplot as plt
 import re
 from datetime import datetime
+import torch
 
 # Configuration
 CONFIG = {
@@ -60,7 +61,7 @@ class AttentionLayer(Layer):
         return super(AttentionLayer, self).get_config()
 
 def load_and_prepare_data():
-    """Load and prepare price data with FinBERT sentiment scores."""
+    """Load and prepare price data with HBERT sentiment scores."""
     # Load price data
     print("Loading XLV price data...")
     price_df = pd.read_csv("xlv_data.csv")
@@ -70,8 +71,8 @@ def load_and_prepare_data():
     print(f"Price data shape: {price_df.shape}")
 
     # Load sentiment data
-    print("Loading FinBERT sentiment data...")
-    sentiment_df = pd.read_csv("Data/Processed_Data/Recent_News_FinBERT.csv")
+    print("Loading HBERT sentiment data...")
+    sentiment_df = pd.read_csv("Data/Processed_Data/Recent_News_HBERT.csv")
     print(f"Initial sentiment data shape: {sentiment_df.shape}")
     
     # Extract dates from titles using regex
@@ -181,22 +182,25 @@ def build_lstm_model(seq_length, n_features, lstm_units, dropout_rate):
 
 def calculate_confidence(predictions, actuals):
     """Calculate confidence based on prediction error."""
-    errors = np.abs(predictions - actuals.flatten())
-    max_error = np.max(actuals) - np.min(actuals)
-    confidence = 1 - (errors / max_error)
+    # Calculate percentage error
+    percentage_errors = np.abs((predictions.flatten() - actuals.flatten()) / actuals.flatten())
+    # Convert to confidence score (0 to 1)
+    confidence = np.exp(-percentage_errors)  # exponential decay of error
     return confidence
 
 def generate_trading_signals(predictions, actuals, confidence_threshold):
-    """Generate trading signals based on predictions and confidence."""
     confidence = calculate_confidence(predictions.flatten(), actuals)
     signals = np.zeros(len(predictions))
-
+    
     high_confidence = confidence >= confidence_threshold
-    price_diff = predictions.flatten() - actuals.flatten()
-
-    signals[high_confidence & (price_diff > 0)] = 1  # Buy signals
-    signals[high_confidence & (price_diff < 0)] = -1  # Sell signals
-
+    price_diff_pct = (predictions.flatten() - actuals.flatten()) / actuals.flatten()
+    
+    # Add a threshold for minimum price difference
+    min_price_diff = 0.01  # 1% minimum difference
+    
+    signals[high_confidence & (price_diff_pct > min_price_diff)] = 1   # Buy signals
+    signals[high_confidence & (price_diff_pct < -min_price_diff)] = -1 # Sell signals
+    
     return signals, confidence
 
 def find_best_hyperparameters(data, train_size):
@@ -311,8 +315,8 @@ def main():
         batch_size=best_params["batch_size"],
         verbose=0,
     )
-    best_model.save("models/lstm_finbert_model_XLV.h5")
-    print("Final model saved to models/lstm_finbert_model_XLV.h5")
+    best_model.save("models/lstm_hbert_model_XLV.h5")
+    print("Final model saved to models/lstm_hbert_model_XLV.h5")
 
     train_predictions = best_model.predict(X_train, verbose=0)
     test_predictions = best_model.predict(X_test, verbose=0)
@@ -398,14 +402,14 @@ def main():
         alpha=0.7,
     )
 
-    ax2.set_title("FinBERT Sentiment Analysis")
+    ax2.set_title("HBERT Sentiment Analysis")
     ax2.set_xlabel("Date")
     ax2.set_ylabel("Sentiment Score (%)")
     ax2.legend()
     ax2.grid(True)
 
     plt.tight_layout()
-    plt.savefig("training_history_XLV_FinBERT.png")
+    plt.savefig("training_history_XLV_HBERT.png")
 
     # Next day prediction
     last_sequence = scaled_data[-best_params["sequence_length"]:]
@@ -444,8 +448,8 @@ def main():
             "Neutral_Sentiment": df["neutral_score"].iloc[-len(test_predictions):].values,
         }
     )
-    predictions_df.to_csv("lstm_finbert_predictions_XLV.csv", index=False)
-    print("Predictions saved to lstm_finbert_predictions_XLV.csv")
+    predictions_df.to_csv("lstm_hbert_predictions_XLV.csv", index=False)
+    print("Predictions saved to lstm_hbert_predictions_XLV.csv")
 
 if __name__ == "__main__":
     main() 
