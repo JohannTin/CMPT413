@@ -9,7 +9,5 @@ matplotlib
 alpha_vantage
 spacy
 tensorflow
-yfinance
 datetime
-langdetect
 notebook
