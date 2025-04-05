@@ -1,0 +1,5 @@
+venv/
+finbert_env/
+lstm_env/
+
+.DS_Store
