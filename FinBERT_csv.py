@@ -7,10 +7,12 @@ from tqdm import tqdm
 
 class FinBERTAnalyzer:
     def __init__(self):
+        print("\nInitializing FinBERT model and tokenizer...")
         # Initialize FinBERT model and tokenizer
         self.tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
         self.model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
-        self.labels = ['positive', 'neutral', 'negative']
+        self.labels = ['negative', 'neutral', 'positive']  # Correct order of labels
+        print("Model and tokenizer initialized successfully")
 
     def get_sentiment_score(self, text):
         if not isinstance(text, str) or not text.strip():
@@ -52,21 +54,40 @@ class FinBERTAnalyzer:
 
 def process_csv():
     # Initialize the analyzer
+    print("\nInitializing FinBERT analyzer...")
     analyzer = FinBERTAnalyzer()
     
     # Path to the CSV file
-    csv_path = "combined_english_news.csv"
+    csv_path = "Data/Processed_Data/combined_english_news.csv"
     results = []
 
     try:
         # Read CSV file
+        print(f"\nReading CSV file from {csv_path}")
         df = pd.read_csv(csv_path)
-        print(f"\nProcessing {csv_path}")
+        print(f"Successfully read CSV file with {len(df)} rows")
         
         # Process each article
         for index, row in tqdm(df.iterrows(), total=len(df), desc="Analyzing articles"):
-            # Extract text from the article
-            text = str(row.get('text', ''))  # Ensure text is string
+            # Combine title, description, and full_description
+            title = str(row.get('title', '')).strip()
+            description = str(row.get('description', '')).strip()
+            full_description = str(row.get('full_description', '')).strip()
+            
+            # Combine all text fields with proper spacing
+            text_parts = []
+            if title:
+                text_parts.append(title)
+            if description:
+                text_parts.append(description)
+            if full_description and full_description != description:  # Avoid duplicating content
+                text_parts.append(full_description)
+            
+            text = ' '.join(text_parts)
+            
+            if len(text.strip()) < 10:  # Skip very short texts
+                continue
+                
             article_id = str(index)  # Use index as article_id if none provided
             
             result = analyzer.analyze_text(text, article_id)
@@ -77,7 +98,7 @@ def process_csv():
                     continue
                     
                 result['category'] = row.get('category', '')
-                result['title'] = row.get('title', '')
+                result['title'] = title
                 result['date'] = row.get('date', '')
                 results.append(result)
     
@@ -100,7 +121,7 @@ def process_csv():
     ])
     
     # Save results
-    results_df.to_csv('FinBERT_csv_results.csv', index=False)
+    results_df.to_csv("Data/Processed_Data/combined_english_news_sentiment(FinBERT).csv", index=False)
     
     # Also save as JSON for detailed view
     with open('FinBERT_csv_results.json', 'w') as f:
