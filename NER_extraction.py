@@ -1,10 +1,10 @@
 import pandas as pd
 import spacy
 
-nlp = spacy.load("en_core_web_lg") #set to "best-model" when running custom ner in jupyter notebook cell
+nlp = spacy.load("best-model") #set to "en_core_web_lg" when running custom ner in jupyter notebook cell
 
 input_files='Data/Processed_Data/combined_english_news.csv'
-output_file = "Data/Processed_Data/healthcare_articles_with_entities.csv" #set to healthcare_articles_with_custom_entities.csv in jupyter notebook cell
+output_file = "Data/Processed_Data/healthcare_articles_with_custom_entities.csv" #set to healthcare_articles_with_entities.csv in jupyter notebook cell
 
 def set_nlp(model):
     global nlp
