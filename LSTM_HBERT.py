@@ -409,7 +409,7 @@ def main():
     ax2.grid(True)
 
     plt.tight_layout()
-    plt.savefig("training_history_XLV_HBERT.png")
+    plt.savefig("Data/Figures/training_history_XLV_HBERT.png")
 
     # Next day prediction
     last_sequence = scaled_data[-best_params["sequence_length"]:]

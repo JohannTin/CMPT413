@@ -55,7 +55,7 @@ def evaluate_sentiment(true_sentiment, lstm_pred, hbert_pred):
     plt.ylabel('True')
     
     plt.tight_layout()
-    plt.savefig('confusion_matrices.png')
+    plt.savefig('Data/Figures/confusion_matrices.png')
     plt.close()
 
 def evaluate_stock_predictions(true_prices, lstm_pred_prices, hbert_pred_prices):
@@ -99,7 +99,7 @@ def evaluate_stock_predictions(true_prices, lstm_pred_prices, hbert_pred_prices)
     plt.legend()
     
     plt.tight_layout()
-    plt.savefig('stock_predictions.png')
+    plt.savefig('Data/Figures/stock_predictions.png')
     plt.close()
 
 def main():

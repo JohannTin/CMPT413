@@ -67,7 +67,7 @@ try:
     plt.legend()
     plt.xticks(rotation=45)
     plt.tight_layout()
-    plt.savefig('xlv_stock_plot.png')
+    plt.savefig('Data/Figures/xlv_stock_plot.png')
     print("\nPlot has been saved as 'xlv_stock_plot.png'")
     
     # Save to CSV
