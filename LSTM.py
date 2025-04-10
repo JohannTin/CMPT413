@@ -24,6 +24,7 @@ CONFIG = {
 }
 
 
+
 class AttentionLayer(Layer):
     def __init__(self, **kwargs):
         super(AttentionLayer, self).__init__(**kwargs)
