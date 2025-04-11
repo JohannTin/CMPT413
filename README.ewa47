@@ -1,4 +1,4 @@
-Main contributions:
+contributions:
 1. Research on custom NER models
 2. Created and trained custom_NER model on healthcare annotation from adapting https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb
 3. Created custom annotion on over 30 heaalthcare news articles
