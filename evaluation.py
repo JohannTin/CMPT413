@@ -46,32 +46,18 @@ def evaluate_sentiment(true_sentiment, lstm_pred, hbert_pred, lstm_only_pred):
     print("\nConfusion Matrix:")
     print(hbert_cm)
     
-    print("\nLSTM-only Sentiment Metrics:")
-    print(f"Accuracy: {lstm_only_accuracy:.4f}")
-    print(f"Precision: {lstm_only_precision:.4f}")
-    print(f"Recall: {lstm_only_recall:.4f}")
-    print(f"F1 Score: {lstm_only_f1:.4f}")
-    print("\nConfusion Matrix:")
-    print(lstm_only_cm)
-    
     # Plot confusion matrices
-    plt.figure(figsize=(18, 5))
+    plt.figure(figsize=(12, 5))
     
-    plt.subplot(1, 3, 1)
+    plt.subplot(1, 2, 1)
     sns.heatmap(lstm_cm, annot=True, fmt='d', cmap='Blues')
     plt.title('LSTM-FinBERT Confusion Matrix')
     plt.xlabel('Predicted')
     plt.ylabel('True')
     
-    plt.subplot(1, 3, 2)
+    plt.subplot(1, 2, 2)
     sns.heatmap(hbert_cm, annot=True, fmt='d', cmap='Blues')
     plt.title('H-BERT Confusion Matrix')
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    
-    plt.subplot(1, 3, 3)
-    sns.heatmap(lstm_only_cm, annot=True, fmt='d', cmap='Blues')
-    plt.title('LSTM-only Confusion Matrix')
     plt.xlabel('Predicted')
     plt.ylabel('True')
     
