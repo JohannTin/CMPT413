@@ -19,3 +19,4 @@ import the folders model-best and model-last
 
 # HBERTv2
 import the train model hbert_best_model.pth before running the line %run HBERT_Recent_News.py in the notebook
+If downloading the model does not work, please run the HBERTv2.py file in a virtual environment
