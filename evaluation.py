@@ -4,66 +4,75 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def evaluate_sentiment(true_sentiment, lstm_pred, hbert_pred, lstm_only_pred):
+def evaluate_sentiment(true_prices, lstm_pred_prices, hbert_pred_prices, lstm_only_pred_prices):
     """
-    Evaluate sentiment prediction metrics for all models
+    Evaluate sentiment prediction metrics using stock price movements as ground truth
     """
+    # Convert price movements to classes (0: down, 1: neutral, 2: up)
+    def get_price_movement(true_prices, pred_prices):
+        # Calculate price changes
+        true_changes = np.diff(true_prices)
+        pred_changes = np.diff(pred_prices)
+        
+        # Convert to classes
+        true_classes = np.zeros(len(true_changes))
+        pred_classes = np.zeros(len(pred_changes))
+        
+        # Define thresholds for movement classification
+        threshold = 0.001  # 0.1% threshold for significant movement
+        
+        # Classify movements
+        true_classes[true_changes > threshold] = 2  # Up
+        true_classes[true_changes < -threshold] = 0  # Down
+        true_classes[(true_changes >= -threshold) & (true_changes <= threshold)] = 1  # Neutral
+        
+        pred_classes[pred_changes > threshold] = 2  # Up
+        pred_classes[pred_changes < -threshold] = 0  # Down
+        pred_classes[(pred_changes >= -threshold) & (pred_changes <= threshold)] = 1  # Neutral
+        
+        return true_classes, pred_classes
+    
+    # Get price movement classes for each model
+    true_movements, lstm_movements = get_price_movement(true_prices, lstm_pred_prices)
+    _, hbert_movements = get_price_movement(true_prices, hbert_pred_prices)
+    _, lstm_only_movements = get_price_movement(true_prices, lstm_only_pred_prices)
+    
     # Calculate metrics for LSTM-FinBERT
-    lstm_accuracy = accuracy_score(true_sentiment, lstm_pred)
-    lstm_precision = precision_score(true_sentiment, lstm_pred, average='weighted')
-    lstm_recall = recall_score(true_sentiment, lstm_pred, average='weighted')
-    lstm_f1 = f1_score(true_sentiment, lstm_pred, average='weighted')
-    lstm_cm = confusion_matrix(true_sentiment, lstm_pred)
+    lstm_accuracy = accuracy_score(true_movements, lstm_movements)
+    lstm_precision = precision_score(true_movements, lstm_movements, average='weighted')
+    lstm_recall = recall_score(true_movements, lstm_movements, average='weighted')
+    lstm_f1 = f1_score(true_movements, lstm_movements, average='weighted')
     
     # Calculate metrics for H-BERT
-    hbert_accuracy = accuracy_score(true_sentiment, hbert_pred)
-    hbert_precision = precision_score(true_sentiment, hbert_pred, average='weighted')
-    hbert_recall = recall_score(true_sentiment, hbert_pred, average='weighted')
-    hbert_f1 = f1_score(true_sentiment, hbert_pred, average='weighted')
-    hbert_cm = confusion_matrix(true_sentiment, hbert_pred)
+    hbert_accuracy = accuracy_score(true_movements, hbert_movements)
+    hbert_precision = precision_score(true_movements, hbert_movements, average='weighted')
+    hbert_recall = recall_score(true_movements, hbert_movements, average='weighted')
+    hbert_f1 = f1_score(true_movements, hbert_movements, average='weighted')
     
     # Calculate metrics for LSTM-only
-    lstm_only_accuracy = accuracy_score(true_sentiment, lstm_only_pred)
-    lstm_only_precision = precision_score(true_sentiment, lstm_only_pred, average='weighted')
-    lstm_only_recall = recall_score(true_sentiment, lstm_only_pred, average='weighted')
-    lstm_only_f1 = f1_score(true_sentiment, lstm_only_pred, average='weighted')
-    lstm_only_cm = confusion_matrix(true_sentiment, lstm_only_pred)
+    lstm_only_accuracy = accuracy_score(true_movements, lstm_only_movements)
+    lstm_only_precision = precision_score(true_movements, lstm_only_movements, average='weighted')
+    lstm_only_recall = recall_score(true_movements, lstm_only_movements, average='weighted')
+    lstm_only_f1 = f1_score(true_movements, lstm_only_movements, average='weighted')
     
     # Print results
-    print("LSTM-FinBERT Sentiment Metrics:")
+    print("LSTM-FinBERT Price Movement Metrics:")
     print(f"Accuracy: {lstm_accuracy:.4f}")
     print(f"Precision: {lstm_precision:.4f}")
     print(f"Recall: {lstm_recall:.4f}")
     print(f"F1 Score: {lstm_f1:.4f}")
-    print("\nConfusion Matrix:")
-    print(lstm_cm)
     
-    print("\nH-BERT Sentiment Metrics:")
+    print("\nH-BERT Price Movement Metrics:")
     print(f"Accuracy: {hbert_accuracy:.4f}")
     print(f"Precision: {hbert_precision:.4f}")
     print(f"Recall: {hbert_recall:.4f}")
     print(f"F1 Score: {hbert_f1:.4f}")
-    print("\nConfusion Matrix:")
-    print(hbert_cm)
     
-    # Plot confusion matrices
-    plt.figure(figsize=(12, 5))
-    
-    plt.subplot(1, 2, 1)
-    sns.heatmap(lstm_cm, annot=True, fmt='d', cmap='Blues')
-    plt.title('LSTM-FinBERT Confusion Matrix')
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    
-    plt.subplot(1, 2, 2)
-    sns.heatmap(hbert_cm, annot=True, fmt='d', cmap='Blues')
-    plt.title('H-BERT Confusion Matrix')
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    
-    plt.tight_layout()
-    plt.savefig('Data/Figures/confusion_matrices.png')
-    plt.close()
+    print("\nLSTM-only Price Movement Metrics:")
+    print(f"Accuracy: {lstm_only_accuracy:.4f}")
+    print(f"Precision: {lstm_only_precision:.4f}")
+    print(f"Recall: {lstm_only_recall:.4f}")
+    print(f"F1 Score: {lstm_only_f1:.4f}")
 
 def evaluate_stock_predictions(true_prices, lstm_pred_prices, hbert_pred_prices, lstm_only_pred_prices):
     """
@@ -237,18 +246,7 @@ def main():
     hbert_predictions = pd.read_csv('lstm_hbert_predictions_XLV.csv')
     lstm_only_predictions = pd.read_csv('lstm_predictions_xlv.csv')
     
-    # Convert sentiment probabilities to sentiment labels (0: Negative, 1: Neutral, 2: Positive)
-    def get_sentiment_label(row):
-        probs = [row['Negative_Sentiment'], row['Neutral_Sentiment'], row['Positive_Sentiment']]
-        return np.argmax(probs)
-    
-    # Calculate sentiment labels
-    lstm_sentiment = lstm_finbert_predictions.apply(get_sentiment_label, axis=1)
-    hbert_sentiment = hbert_predictions.apply(get_sentiment_label, axis=1)
-    lstm_only_sentiment = lstm_only_predictions['Signal'].values  # Using Signal column for sentiment
-    
     # Use LSTM-FinBERT's actual values as ground truth since both models use the same data
-    true_sentiment = lstm_finbert_predictions.apply(get_sentiment_label, axis=1)
     true_prices = lstm_finbert_predictions['Actual'].values
     
     # Get price predictions
@@ -256,8 +254,8 @@ def main():
     hbert_pred_prices = hbert_predictions['Predicted'].values
     lstm_only_pred_prices = lstm_only_predictions['Predicted'].values
     
-    # Evaluate sentiment predictions
-    evaluate_sentiment(true_sentiment, lstm_sentiment, hbert_sentiment, lstm_only_sentiment)
+    # Evaluate price movement predictions
+    evaluate_sentiment(true_prices, lstm_pred_prices, hbert_pred_prices, lstm_only_pred_prices)
     
     # Evaluate stock price predictions
     evaluate_stock_predictions(true_prices, lstm_pred_prices, hbert_pred_prices, lstm_only_pred_prices)
