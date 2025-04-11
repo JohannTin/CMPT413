@@ -14,11 +14,8 @@ pip3 install -r requirements.txt
 # Large Models to import
 Google Drive https://drive.google.com/drive/u/1/folders/16n_AqPpo2cGeJ03ymtdso-oFPtS51C10
 
-# HBERT
-import model hbert_best_model.pth 
-
-# spaCy trained models (optional if you do not want to retrain spacy model)
+# spaCy trained models (optional if you do not want to retrain spacy model in jupyter notebook)
 import the folders model-best and model-last
 
-# Evaluation
-To run the evaluation, 
+# HBERTv2
+import the train model hbert_best_model.pth before running the line %run HBERT_Recent_News.py in the notebook
