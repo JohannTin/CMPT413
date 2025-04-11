@@ -1,7 +1,8 @@
-contributions:
+Main contributions:
 1. Research on custom NER models
 2. Created and trained custom_NER model on healthcare annotation from adapting https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb
 3. Created custom annotion on over 30 heaalthcare news articles
 4. Created NER_extraction.py to extract entities
 5. Gathers news article datasets. Attempted to used NYT and The Guardians API to get news articles, but were limited by restrictions set by Terms and conditions.
 6. Worked on the project.ipynb jupyter notebook.
+7. Read some of the filtered articles from Data\Processed_Data\healthcare_articles_with_custom_entities.csv and gave labelled the sentiment scores.
