@@ -1,0 +1,7 @@
+contributions:
+- Fetched XLV stock price using alphavantage, and generated some basic incicators
+- HBERT implementation
+- LSTM implementation
+- Labelled some sentiment to train
+- Merged LSTM with HBERT and FinBERT to produce stock prediction prediction
+- Processed the evaluation which includes Accuracy, Precision, Recall, F1, MAE, r-squared
